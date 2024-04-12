@@ -104,40 +104,120 @@ class DianpingScraper:
 
     def parse_page(self, html):
         soup = BeautifulSoup(html, "html.parser")
-        info_list = []
-        for item in soup.find_all("div", class_="main-review"):
+        all_review = []
+        for review in soup.find_all("div", class_="main-review"):
             try:
-                info = {
-                    "shop_id": self.shop_id,
-                    "user_id": item.find("a", class_="name")["data-user-id"],
-                    "customer_name": item.find("a", class_="name").text.strip(),
-                    "comment_time": item.find("span", class_="time").text.strip(),
-                    "comment_star": item.find("span", class_="sml-rank-stars")["class"][
-                        1
-                    ],
-                    "cus_comment": self.clean_text(
-                        item.find("div", class_="review-words").text.strip()
-                    ),
-                    "kouwei": self.extract_detail(
-                        item, r"口味：(\d\.\d)"
-                    ),  # Extract taste rating
-                    "huanjing": self.extract_detail(
-                        item, r"环境：(\d\.\d)"
-                    ),  # Extract environment rating
-                    "fuwu": self.extract_detail(
-                        item, r"服务：(\d\.\d)"
-                    ),  # Extract service rating
-                    "shicai": self.extract_detail(
-                        item, r"食材：(\d\.\d)"
-                    ),  # Extract ingredients rating
-                    "renjun": self.extract_detail(
-                        item, r"人均：(\d+)元"
-                    ),  # Extract average cost per person
-                }
-                info_list.append(info)
-            except Exception as e:
-                self.logger.warning(f"Failed to parse item: {e}")
-        return info_list
+                review_username = review.select(".name")[0].text.strip()
+            except:
+                review_username = "-"
+
+            try:
+                user_id = review.select(".name")[0]["href"].split("/")[-1]
+            except:
+                user_id = "-"
+
+            review_total_score = ""
+            try:
+                review_score_detail = {}
+                review_avg_price = ""
+                review_score_detail_temp = (
+                    review.select(".score")[0]
+                    .text.replace(" ", "")
+                    .replace("\n", " ")
+                    .strip()
+                    .split()
+                )
+                try:
+                    review_total_score = str(
+                        float(review.select(".sml-rank-stars")[0]["class"][1][-2:]) / 10
+                    )
+                except:
+                    review_total_score = ""
+
+                for each in review_score_detail_temp:
+                    if "人均" in each:
+                        review_avg_price = each.split("：")[1].replace("元", "")
+                    else:
+                        temp = each.split("：")
+                        review_score_detail[temp[0]] = temp[1]
+            except:
+                review_score_detail = {}
+                review_avg_price = ""
+
+            try:
+                review_text = (
+                    review.select(".review-words")[0]
+                    .text.replace(" ", "")
+                    .replace("收起评价", "")
+                    .replace("\r", " ")
+                    .replace("\n", " ")
+                    .strip()
+                )
+            except:
+                review_text = "-"
+            try:
+                review_like_dish = (
+                    review.select(".review-recommend")[0]
+                    .text.replace(" ", "")
+                    .replace("\r", " ")
+                    .replace("\n", " ")
+                    .strip()[5:]
+                    .split()
+                )
+            except:
+                review_like_dish = []
+            try:
+                review_publish_time = review.select(".time")[0].text.strip()
+            except:
+                review_publish_time = "-"
+            try:
+                review_id = review.select(".actions")[0].select("a")[0].attrs["data-id"]
+            except:
+                review_id = "-"
+
+            try:
+                review_pic_list = []
+                review_pic_list_temp = review.select(".review-pictures")[0].select("a")
+                for each in review_pic_list_temp:
+                    url = each["href"]
+                    review_pic_list.append("http://www.dianping.com" + str(url))
+            except:
+                review_pic_list = []
+
+            try:
+                review_merchant_reply = review.select(".shop-reply-content")[
+                    0
+                ].text.strip()
+            except:
+                review_merchant_reply = ""
+
+            # 检查是否为vip用户
+            try:
+                # 检查是否存在VIP标记
+                vip_status = (
+                    review.find("div", class_="dper-info").find("span", class_="vip")
+                    is not None
+                )
+            except:
+                vip_status = False
+
+            each_review = {
+                "店铺id": self.shop_id,
+                "评论id": review_id,
+                "用户id": user_id,
+                "用户名": review_username,
+                "是否VIP": vip_status,
+                "用户总分": review_total_score,
+                "用户打分": review_score_detail,
+                "评论内容": review_text,
+                "人均价格": review_avg_price,
+                "喜欢的菜": review_like_dish,
+                "发布时间": review_publish_time,
+                "商家回复": review_merchant_reply,
+                "评论图片": review_pic_list,
+            }
+            all_review.append(each_review)
+        return all_review
 
     def get_star_rating(self, item):
         try:

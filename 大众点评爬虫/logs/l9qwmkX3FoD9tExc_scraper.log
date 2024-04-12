@@ -18,3 +18,59 @@
 2024-04-12 05:56:52,881 - main - ERROR - Proxy failure, switching proxy...
 2024-04-12 05:58:43,448 - __main__ - INFO - Page 1 fetched 15 items
 2024-04-12 05:58:50,441 - __main__ - INFO - Page 2 fetched 15 items
+2024-04-12 06:24:10,476 - __main__ - INFO - Page 3 fetched 15 items
+2024-04-12 06:29:46,215 - __main__ - INFO - Page 3 fetched 15 items
+2024-04-12 06:38:32,667 - __main__ - INFO - Page 3 fetched 15 items
+2024-04-12 06:43:08,341 - __main__ - INFO - Page 1 fetched 15 items
+2024-04-12 06:43:18,996 - __main__ - INFO - Page 2 fetched 15 items
+2024-04-12 06:43:29,227 - __main__ - INFO - Page 3 fetched 15 items
+2024-04-12 06:43:37,077 - __main__ - INFO - Page 4 fetched 15 items
+2024-04-12 06:43:45,861 - __main__ - INFO - Page 5 fetched 15 items
+2024-04-12 06:43:58,203 - __main__ - INFO - Page 6 fetched 15 items
+2024-04-12 06:44:09,770 - __main__ - INFO - Page 7 fetched 15 items
+2024-04-12 06:44:17,708 - __main__ - INFO - Page 8 fetched 15 items
+2024-04-12 06:44:27,873 - __main__ - INFO - Page 9 fetched 15 items
+2024-04-12 06:44:39,348 - __main__ - INFO - Page 10 fetched 15 items
+2024-04-12 06:44:49,711 - __main__ - INFO - Page 11 fetched 15 items
+2024-04-12 06:45:00,386 - __main__ - INFO - Page 12 fetched 15 items
+2024-04-12 06:45:09,886 - __main__ - INFO - Page 13 fetched 15 items
+2024-04-12 06:45:20,875 - __main__ - INFO - Page 14 fetched 15 items
+2024-04-12 06:45:28,528 - __main__ - INFO - Page 15 fetched 15 items
+2024-04-12 06:45:38,543 - __main__ - INFO - Page 16 fetched 15 items
+2024-04-12 06:45:48,727 - __main__ - INFO - Page 17 fetched 15 items
+2024-04-12 06:45:56,156 - __main__ - INFO - Page 18 fetched 15 items
+2024-04-12 06:46:07,009 - __main__ - INFO - Page 19 fetched 15 items
+2024-04-12 06:46:16,427 - __main__ - INFO - Page 20 fetched 15 items
+2024-04-12 06:46:28,938 - __main__ - INFO - Page 21 fetched 15 items
+2024-04-12 06:46:39,032 - __main__ - INFO - Page 22 fetched 15 items
+2024-04-12 06:46:48,850 - __main__ - INFO - Page 23 fetched 15 items
+2024-04-12 06:46:59,605 - __main__ - INFO - Page 24 fetched 15 items
+2024-04-12 06:47:09,122 - __main__ - INFO - Page 25 fetched 15 items
+2024-04-12 06:47:18,617 - __main__ - INFO - Page 26 fetched 15 items
+2024-04-12 06:47:27,389 - __main__ - INFO - Page 27 fetched 15 items
+2024-04-12 06:47:37,038 - __main__ - INFO - Page 28 fetched 15 items
+2024-04-12 06:47:49,267 - __main__ - INFO - Page 29 fetched 15 items
+2024-04-12 06:47:58,844 - __main__ - INFO - Page 30 fetched 15 items
+2024-04-12 06:48:06,171 - __main__ - INFO - Page 31 fetched 15 items
+2024-04-12 06:48:13,260 - __main__ - INFO - Page 32 fetched 15 items
+2024-04-12 06:48:24,671 - __main__ - INFO - Page 33 fetched 15 items
+2024-04-12 06:48:34,812 - __main__ - INFO - Page 34 fetched 15 items
+2024-04-12 06:48:47,034 - __main__ - INFO - Page 35 fetched 15 items
+2024-04-12 06:48:53,964 - __main__ - INFO - Page 36 fetched 15 items
+2024-04-12 06:49:05,738 - __main__ - INFO - Page 37 fetched 15 items
+2024-04-12 06:49:12,577 - __main__ - INFO - Page 38 fetched 15 items
+2024-04-12 06:49:19,842 - __main__ - INFO - Page 39 fetched 15 items
+2024-04-12 06:49:26,942 - __main__ - INFO - Page 40 fetched 15 items
+2024-04-12 06:49:37,525 - __main__ - INFO - Page 41 fetched 15 items
+2024-04-12 06:49:48,213 - __main__ - INFO - Page 42 fetched 15 items
+2024-04-12 06:49:55,777 - __main__ - INFO - Page 43 fetched 15 items
+2024-04-12 06:50:04,690 - __main__ - INFO - Page 44 fetched 15 items
+2024-04-12 06:50:15,533 - __main__ - INFO - Page 45 fetched 15 items
+2024-04-12 06:50:23,140 - __main__ - INFO - Page 46 fetched 15 items
+2024-04-12 06:50:33,612 - __main__ - INFO - Page 47 fetched 15 items
+2024-04-12 06:50:44,486 - __main__ - INFO - Page 48 fetched 15 items
+2024-04-12 06:50:54,426 - __main__ - INFO - Page 49 fetched 15 items
+2024-04-12 06:51:03,728 - __main__ - ERROR - Request failed: 403 Client Error: Forbidden for url: https://www.dianping.com/shop/l9qwmkX3FoD9tExc/review_all/p50, retrying...
+2024-04-12 06:51:15,002 - __main__ - ERROR - Request failed: 403 Client Error: Forbidden for url: https://www.dianping.com/shop/l9qwmkX3FoD9tExc/review_all/p50, retrying...
+2024-04-12 06:58:22,077 - __main__ - ERROR - Request failed: 403 Client Error: Forbidden for url: https://www.dianping.com/shop/l9qwmkX3FoD9tExc/review_all/p50, retrying...
+2024-04-12 06:58:29,415 - __main__ - ERROR - Request failed: 403 Client Error: Forbidden for url: https://www.dianping.com/shop/l9qwmkX3FoD9tExc/review_all/p50, retrying...

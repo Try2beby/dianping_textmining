@@ -1,4 +1,5 @@
 import pymysql
+import json
 
 # 连接MYSQL数据库
 db = pymysql.connect(
@@ -11,57 +12,62 @@ db = pymysql.connect(
 cursor = db.cursor()
 
 
-# 在数据库建表
-def creat_table():
-    cursor.execute("DROP TABLE IF EXISTS DZDP")
-    sql = """CREATE TABLE DZDP(
-            cus_id varchar(100),
-            comment_time varchar(55),
-            comment_star varchar(55),
-            cus_comment text(5000),
-            kouwei varchar(55),
-            huanjing varchar(55),
-            fuwu varchar(55),
-            shicai varchar(55),
-            renjun varchar(55),
-            shopID varchar(55)
+def create_table():
+    cursor.execute("DROP TABLE IF EXISTS Reviews")
+    sql = """CREATE TABLE Reviews(
+            shopID varchar(100),
+            reviewID varchar(100),
+            userID varchar(100),
+            username varchar(255),
+            isVIP boolean,
+            totalScore varchar(50),
+            scoreDetails text,  
+            comment text,
+            avgPrice varchar(100),
+            likeDish text,
+            publishTime varchar(100),
+            merchantReply text,
+            commentPics text
             );"""
     cursor.execute(sql)
-    return
 
 
-# 存储爬取到的数据
 def save_data(data_dict):
-    sql = """INSERT INTO DZDP(cus_id,comment_time,comment_star,cus_comment,kouwei,huanjing,fuwu,shicai,renjun,shopID) VALUES(%s,%s,%s,%s,%s,%s,%s,%s,%s,%s)"""
+    sql = """INSERT INTO Reviews(shopID, reviewID, userID, username, isVIP, totalScore, scoreDetails, comment, avgPrice, likeDish, publishTime, merchantReply, commentPics) 
+             VALUES(%s, %s, %s, %s, %s, %s, %s, %s, %s, %s, %s, %s, %s)"""
     value_tup = (
-        data_dict["cus_id"],
-        data_dict["comment_time"],
-        data_dict["comment_star"],
-        data_dict["cus_comment"],
-        data_dict["kouwei"],
-        data_dict["huanjing"],
-        data_dict["fuwu"],
-        data_dict["shicai"],
-        data_dict["renjun"],
-        data_dict["shopID"],
+        data_dict["店铺id"],
+        data_dict["评论id"],
+        data_dict["用户id"],
+        data_dict["用户名"],
+        data_dict["是否VIP"],
+        data_dict["用户总分"],
+        json.dumps(data_dict["用户打分"]),  # Serializing dict to JSON string
+        data_dict["评论内容"],
+        data_dict["人均价格"],
+        json.dumps(data_dict["喜欢的菜"]),  # Serializing list to JSON string
+        data_dict["发布时间"],
+        data_dict["商家回复"],
+        json.dumps(data_dict["评论图片"]),  # Serializing list to JSON string
     )
     try:
         cursor.execute(sql, value_tup)
         db.commit()
-    except:
-        print("Failed to save data")
-    return
+    except Exception as e:
+        print(f"Failed to save data: {e}")
 
 
 # export data to csv
 def export_csv():
-    sql = "SELECT * FROM DZDP"
+    sql = "SELECT * FROM Reviews;"
     cursor.execute(sql)
     results = cursor.fetchall()
-    with open("./data/dzdp.csv", "w", encoding="utf-8") as f:
-        for result in results:
-            f.write(",".join(result) + "\n")
-    return
+    with open("./data/reviews.csv", "w", encoding="utf-8") as f:
+        f.write(
+            "shopID,reviewID,userID,username,isVIP,totalScore,scoreDetails,comment,avgPrice,likeDish,publishTime,merchantReply,commentPics\n"
+        )
+        for row in results:
+            f.write(",".join([str(i) for i in row]) + "\n")
 
 
 def close_sql():
