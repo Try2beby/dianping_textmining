@@ -1,0 +1,7 @@
+{
+    "base_url": "https://www.dianping.com",
+    "cache_dir": "./cache",
+    "cookies_path": "cookies.json",
+    "proxy_url": "http://127.0.0.1:5010/get/",
+    "delete_proxy_url": "http://127.0.0.1:5010/delete/"
+}
