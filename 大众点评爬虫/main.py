@@ -23,8 +23,9 @@ class DianpingScraper:
         self.cache_dir = config["cache_dir"]
         os.makedirs(self.cache_dir, exist_ok=True)
         self.headers = {
+            # "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36",
             "User-Agent": UserAgent().random,
-            "Cookie": self.load_cookies(),
+            "Cookie": "",
             "Connection": "keep-alive",
             "Host": "www.dianping.com",
             "Referer": f"{self.base_url}/shop/{self.shop_id}/review_all",
@@ -56,9 +57,37 @@ class DianpingScraper:
         self.logger.addHandler(handler_file)
 
     def load_cookies(self):
-        with open(os.path.join(self.cache_dir, "cookies.json"), "r") as f:
-            cookies = json.load(f)
-        return "; ".join([f"{item['name']}={item['value']}" for item in cookies])
+        with open(os.path.join(self.cache_dir, "cookies.txt"), "r") as f:
+            self.all_cookies = [line.strip() for line in f.readlines()]
+            random.shuffle(self.all_cookies)
+        # check if cookies are valid
+        for cookies in self.all_cookies:
+            proxy_retry_count = 3
+            while proxy_retry_count > 0:
+                proxy = self.get_proxy()
+                # log proxy info
+                self.logger.info(f"Using proxy to test cookies: {proxy}")
+                self.add_cookies(cookies)
+                try:
+                    response = requests.get(
+                        self.base_url,
+                        headers=self.headers,
+                        proxies={"http": f"http://{proxy}"},
+                    )
+                    # check 403 error
+                    if response.status_code == 403:
+                        self.logger.error("Cookies are invalid, retrying...")
+                        break
+                    elif response.status_code == 200:
+                        self.logger.info("Cookies are valid.")
+                        time.sleep(random.uniform(1, 2))
+                        return
+                except requests.RequestException as e:
+                    self.logger.error(f"Request failed: {e}, retrying...")
+                    proxy_retry_count -= 1
+
+    def add_cookies(self, cookies):
+        self.headers["Cookie"] = cookies
 
     def get_proxy(self):
         return requests.get("http://127.0.0.1:5010/get/").json().get("proxy")
@@ -79,11 +108,13 @@ class DianpingScraper:
         proxy_retry_count = 3
         while proxy_retry_count > 0:
             proxy = self.get_proxy()
+            # log proxy info
+            self.logger.info(f"Using proxy: {proxy}")
+            self.load_cookies()
             retry_count = 3
             error_msg = ""
             while retry_count > 0:
                 try:
-                    time.sleep(random.uniform(6, 12))
                     response = requests.get(
                         url,
                         timeout=5,
@@ -258,6 +289,7 @@ class DianpingScraper:
             for info in info_list:
                 mysqls.save_data(info)
             self.update_download_info(i, success=True)
+            time.sleep(random.uniform(6, 12))
 
     def get_download_info(self):
         try:
@@ -298,5 +330,5 @@ class DianpingScraper:
 
 
 if __name__ == "__main__":
-    scraper = DianpingScraper(shop_id="l9qwmkX3FoD9tExc", page_end=1064)
+    scraper = DianpingScraper(shop_id="l9qwmkX3FoD9tExc", page_end=400)
     scraper.run()

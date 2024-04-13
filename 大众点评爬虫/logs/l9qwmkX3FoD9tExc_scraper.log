@@ -74,3 +74,860 @@
 2024-04-12 06:51:15,002 - __main__ - ERROR - Request failed: 403 Client Error: Forbidden for url: https://www.dianping.com/shop/l9qwmkX3FoD9tExc/review_all/p50, retrying...
 2024-04-12 06:58:22,077 - __main__ - ERROR - Request failed: 403 Client Error: Forbidden for url: https://www.dianping.com/shop/l9qwmkX3FoD9tExc/review_all/p50, retrying...
 2024-04-12 06:58:29,415 - __main__ - ERROR - Request failed: 403 Client Error: Forbidden for url: https://www.dianping.com/shop/l9qwmkX3FoD9tExc/review_all/p50, retrying...
+2024-04-12 07:10:05,482 - __main__ - INFO - Using proxy: 121.43.32.194:80
+2024-04-12 07:10:13,740 - __main__ - ERROR - Request failed: 403 Client Error: Forbidden for url: https://www.dianping.com/shop/l9qwmkX3FoD9tExc/review_all/p50, retrying...
+2024-04-12 07:10:25,785 - __main__ - ERROR - Request failed: 403 Client Error: Forbidden for url: https://www.dianping.com/shop/l9qwmkX3FoD9tExc/review_all/p50, retrying...
+2024-04-12 07:10:36,696 - __main__ - ERROR - Request failed: 403 Client Error: Forbidden for url: https://www.dianping.com/shop/l9qwmkX3FoD9tExc/review_all/p50, retrying...
+2024-04-12 07:10:36,707 - __main__ - ERROR - Proxy failure, switching proxy...
+2024-04-12 07:10:36,719 - __main__ - INFO - Using proxy: 118.31.169.137:80
+2024-04-12 07:10:46,519 - __main__ - ERROR - Request failed: 403 Client Error: Forbidden for url: https://www.dianping.com/shop/l9qwmkX3FoD9tExc/review_all/p50, retrying...
+2024-04-12 07:10:57,419 - __main__ - ERROR - Request failed: 403 Client Error: Forbidden for url: https://www.dianping.com/shop/l9qwmkX3FoD9tExc/review_all/p50, retrying...
+2024-04-12 08:08:37,938 - __main__ - INFO - Using proxy: 101.34.181.14:7890
+2024-04-12 08:08:44,809 - __main__ - ERROR - Request failed: 403 Client Error: Forbidden for url: https://www.dianping.com/shop/l9qwmkX3FoD9tExc/review_all/p50, retrying...
+2024-04-12 08:08:56,617 - __main__ - ERROR - Request failed: 403 Client Error: Forbidden for url: https://www.dianping.com/shop/l9qwmkX3FoD9tExc/review_all/p50, retrying...
+2024-04-12 08:10:06,988 - __main__ - INFO - Using proxy: 111.177.63.86:8888
+2024-04-12 08:10:17,402 - __main__ - ERROR - Request failed: 403 Client Error: Forbidden for url: https://www.dianping.com/shop/l9qwmkX3FoD9tExc/review_all/p50, retrying...
+2024-04-12 08:10:26,021 - __main__ - ERROR - Request failed: 403 Client Error: Forbidden for url: https://www.dianping.com/shop/l9qwmkX3FoD9tExc/review_all/p50, retrying...
+2024-04-12 08:10:32,102 - __main__ - ERROR - Request failed: 403 Client Error: Forbidden for url: https://www.dianping.com/shop/l9qwmkX3FoD9tExc/review_all/p50, retrying...
+2024-04-12 08:10:32,116 - __main__ - ERROR - Proxy failure, switching proxy...
+2024-04-12 08:10:32,130 - __main__ - INFO - Using proxy: 27.70.170.43:10005
+2024-04-12 08:10:43,242 - __main__ - ERROR - Request failed: 403 Client Error: Forbidden for url: https://www.dianping.com/shop/l9qwmkX3FoD9tExc/review_all/p50, retrying...
+2024-04-12 08:10:51,014 - __main__ - ERROR - Request failed: 403 Client Error: Forbidden for url: https://www.dianping.com/shop/l9qwmkX3FoD9tExc/review_all/p50, retrying...
+2024-04-12 08:11:02,416 - __main__ - ERROR - Request failed: 403 Client Error: Forbidden for url: https://www.dianping.com/shop/l9qwmkX3FoD9tExc/review_all/p50, retrying...
+2024-04-12 08:11:02,431 - __main__ - ERROR - Proxy failure, switching proxy...
+2024-04-12 08:11:02,446 - __main__ - INFO - Using proxy: 120.26.13.191:80
+2024-04-12 08:11:08,541 - __main__ - ERROR - Request failed: 403 Client Error: Forbidden for url: https://www.dianping.com/shop/l9qwmkX3FoD9tExc/review_all/p50, retrying...
+2024-04-12 08:11:16,480 - __main__ - ERROR - Request failed: 403 Client Error: Forbidden for url: https://www.dianping.com/shop/l9qwmkX3FoD9tExc/review_all/p50, retrying...
+2024-04-12 08:11:24,337 - __main__ - ERROR - Request failed: 403 Client Error: Forbidden for url: https://www.dianping.com/shop/l9qwmkX3FoD9tExc/review_all/p50, retrying...
+2024-04-12 08:11:24,356 - __main__ - ERROR - Proxy failure, switching proxy...
+2024-04-12 08:11:24,356 - __main__ - ERROR - Failed to fetch page, skipping...
+2024-04-12 08:24:33,678 - __main__ - INFO - Using proxy: 39.165.0.137:9002
+2024-04-12 08:24:43,579 - __main__ - ERROR - Request failed: 403 Client Error: Forbidden for url: https://www.dianping.com/shop/l9qwmkX3FoD9tExc/review_all/p51, retrying...
+2024-04-12 08:24:50,586 - __main__ - ERROR - Request failed: 403 Client Error: Forbidden for url: https://www.dianping.com/shop/l9qwmkX3FoD9tExc/review_all/p51, retrying...
+2024-04-12 08:24:59,294 - __main__ - ERROR - Request failed: 403 Client Error: Forbidden for url: https://www.dianping.com/shop/l9qwmkX3FoD9tExc/review_all/p51, retrying...
+2024-04-12 08:24:59,305 - __main__ - ERROR - Proxy failure, switching proxy...
+2024-04-12 08:24:59,315 - __main__ - INFO - Using proxy: 101.34.181.14:7890
+2024-04-12 08:25:06,075 - __main__ - ERROR - Request failed: 403 Client Error: Forbidden for url: https://www.dianping.com/shop/l9qwmkX3FoD9tExc/review_all/p51, retrying...
+2024-04-12 10:22:16,032 - main - INFO - Using proxy: 120.26.200.176:80
+2024-04-12 10:22:25,662 - main - ERROR - Request failed: 403 Client Error: Forbidden for url: https://www.dianping.com/shop/l9qwmkX3FoD9tExc/review_all, retrying...
+2024-04-12 10:52:52,169 - main - INFO - Using proxy: 114.55.176.250:80
+2024-04-12 10:52:52,169 - main - INFO - Using proxy: 114.55.176.250:80
+2024-04-12 11:45:06,942 - __main__ - INFO - Using proxy: 121.43.35.119:80
+2024-04-12 11:45:16,956 - __main__ - INFO - Page 50 fetched 15 items
+2024-04-12 11:45:16,976 - __main__ - INFO - Using proxy: 134.35.203.185:8080
+2024-04-12 11:45:23,954 - __main__ - INFO - Page 51 fetched 15 items
+2024-04-12 11:45:23,975 - __main__ - INFO - Using proxy: 120.27.143.33:80
+2024-04-12 11:45:32,578 - __main__ - INFO - Page 52 fetched 15 items
+2024-04-12 11:45:32,597 - __main__ - INFO - Using proxy: 134.35.203.185:8080
+2024-04-12 11:45:42,915 - __main__ - INFO - Page 53 fetched 15 items
+2024-04-12 11:45:42,937 - __main__ - INFO - Using proxy: 58.246.58.150:9002
+2024-04-12 11:45:52,554 - __main__ - INFO - Page 54 fetched 15 items
+2024-04-12 11:45:52,573 - __main__ - INFO - Using proxy: 116.109.194.44:4000
+2024-04-12 11:45:59,162 - __main__ - INFO - Page 55 fetched 15 items
+2024-04-12 11:45:59,183 - __main__ - INFO - Using proxy: 117.160.250.136:80
+2024-04-12 11:46:08,910 - __main__ - INFO - Page 56 fetched 15 items
+2024-04-12 11:46:08,930 - __main__ - INFO - Using proxy: 27.70.170.43:10005
+2024-04-12 11:46:21,009 - __main__ - INFO - Page 57 fetched 15 items
+2024-04-12 11:46:21,028 - __main__ - INFO - Using proxy: 116.109.194.44:4000
+2024-04-12 11:46:28,706 - __main__ - INFO - Page 58 fetched 15 items
+2024-04-12 11:46:28,726 - __main__ - INFO - Using proxy: 114.55.176.250:80
+2024-04-12 11:46:39,439 - __main__ - INFO - Page 59 fetched 15 items
+2024-04-12 11:46:39,459 - __main__ - INFO - Using proxy: 175.10.105.96:7890
+2024-04-12 11:46:47,468 - __main__ - INFO - Page 60 fetched 15 items
+2024-04-12 11:46:47,490 - __main__ - INFO - Using proxy: 49.7.11.187:80
+2024-04-12 11:46:58,033 - __main__ - INFO - Page 61 fetched 15 items
+2024-04-12 11:46:58,054 - __main__ - INFO - Using proxy: 120.26.200.176:80
+2024-04-12 11:47:08,470 - __main__ - INFO - Page 62 fetched 15 items
+2024-04-12 11:47:08,492 - __main__ - INFO - Using proxy: 118.31.1.154:80
+2024-04-12 11:47:19,071 - __main__ - INFO - Page 63 fetched 15 items
+2024-04-12 11:47:19,091 - __main__ - INFO - Using proxy: 120.26.200.176:80
+2024-04-12 11:47:26,691 - __main__ - INFO - Page 64 fetched 15 items
+2024-04-12 11:47:26,719 - __main__ - INFO - Using proxy: 118.31.105.240:80
+2024-04-12 11:47:33,817 - __main__ - INFO - Page 65 fetched 15 items
+2024-04-12 11:47:33,836 - __main__ - INFO - Using proxy: 121.43.35.119:80
+2024-04-12 11:47:41,648 - __main__ - INFO - Page 66 fetched 15 items
+2024-04-12 11:47:41,669 - __main__ - INFO - Using proxy: 121.41.58.212:80
+2024-04-12 11:47:51,681 - __main__ - INFO - Page 67 fetched 15 items
+2024-04-12 11:47:51,702 - __main__ - INFO - Using proxy: 27.70.170.43:10001
+2024-04-12 11:48:00,223 - __main__ - INFO - Page 68 fetched 15 items
+2024-04-12 11:48:00,245 - __main__ - INFO - Using proxy: 128.140.28.137:8080
+2024-04-12 11:48:09,176 - __main__ - INFO - Page 69 fetched 15 items
+2024-04-12 11:48:09,197 - __main__ - INFO - Using proxy: 117.160.250.136:80
+2024-04-12 11:48:15,936 - __main__ - INFO - Page 70 fetched 15 items
+2024-04-12 11:48:15,957 - __main__ - INFO - Using proxy: 121.43.35.119:80
+2024-04-12 11:48:23,163 - __main__ - INFO - Page 71 fetched 15 items
+2024-04-12 11:48:23,184 - __main__ - INFO - Using proxy: 114.55.176.250:80
+2024-04-12 11:48:30,343 - __main__ - INFO - Page 72 fetched 15 items
+2024-04-12 11:48:30,362 - __main__ - INFO - Using proxy: 175.10.105.96:7890
+2024-04-12 11:48:42,047 - __main__ - INFO - Page 73 fetched 15 items
+2024-04-12 11:48:42,069 - __main__ - INFO - Using proxy: 118.31.105.240:80
+2024-04-12 11:48:53,543 - __main__ - INFO - Page 74 fetched 15 items
+2024-04-12 11:48:53,565 - __main__ - INFO - Using proxy: 117.160.250.134:8899
+2024-04-12 11:49:02,495 - __main__ - INFO - Page 75 fetched 15 items
+2024-04-12 11:49:02,517 - __main__ - INFO - Using proxy: 218.6.120.111:7777
+2024-04-12 11:49:09,520 - __main__ - INFO - Page 76 fetched 15 items
+2024-04-12 11:49:09,541 - __main__ - INFO - Using proxy: 114.55.84.12:30001
+2024-04-12 11:49:16,642 - __main__ - INFO - Page 77 fetched 15 items
+2024-04-12 11:49:16,663 - __main__ - INFO - Using proxy: 120.26.200.176:80
+2024-04-12 11:49:25,489 - __main__ - INFO - Page 78 fetched 15 items
+2024-04-12 11:49:25,510 - __main__ - INFO - Using proxy: 120.26.195.89:80
+2024-04-12 11:49:33,315 - __main__ - INFO - Page 79 fetched 15 items
+2024-04-12 11:49:33,335 - __main__ - INFO - Using proxy: 120.26.195.89:80
+2024-04-12 11:49:45,022 - __main__ - INFO - Page 80 fetched 15 items
+2024-04-12 11:49:45,042 - __main__ - INFO - Using proxy: 118.31.169.137:80
+2024-04-12 11:49:58,082 - __main__ - INFO - Page 81 fetched 15 items
+2024-04-12 11:49:58,103 - __main__ - INFO - Using proxy: 101.37.18.160:80
+2024-04-12 11:50:04,883 - __main__ - INFO - Page 82 fetched 15 items
+2024-04-12 11:50:04,904 - __main__ - INFO - Using proxy: 118.178.234.137:80
+2024-04-12 11:50:14,121 - __main__ - INFO - Page 83 fetched 15 items
+2024-04-12 11:50:14,142 - __main__ - INFO - Using proxy: 58.253.210.122:8888
+2024-04-12 11:50:24,226 - __main__ - INFO - Page 84 fetched 15 items
+2024-04-12 11:50:24,247 - __main__ - INFO - Using proxy: 49.7.11.187:80
+2024-04-12 11:50:31,873 - __main__ - INFO - Page 85 fetched 15 items
+2024-04-12 11:50:31,892 - __main__ - INFO - Using proxy: 118.31.105.240:80
+2024-04-12 11:50:39,242 - __main__ - INFO - Page 86 fetched 15 items
+2024-04-12 11:50:39,263 - __main__ - INFO - Using proxy: 101.34.181.14:7890
+2024-04-12 11:50:46,020 - __main__ - INFO - Page 87 fetched 15 items
+2024-04-12 11:50:46,047 - __main__ - INFO - Using proxy: 60.188.102.225:18080
+2024-04-12 11:50:53,303 - __main__ - INFO - Page 88 fetched 15 items
+2024-04-12 11:50:53,321 - __main__ - INFO - Using proxy: 116.62.159.106:80
+2024-04-12 11:51:02,387 - __main__ - INFO - Page 89 fetched 15 items
+2024-04-12 11:51:02,407 - __main__ - INFO - Using proxy: 121.40.216.235:80
+2024-04-12 11:51:13,203 - __main__ - INFO - Page 90 fetched 15 items
+2024-04-12 11:51:13,223 - __main__ - INFO - Using proxy: 111.177.63.86:8888
+2024-04-12 11:51:25,030 - __main__ - INFO - Page 91 fetched 15 items
+2024-04-12 11:51:25,049 - __main__ - INFO - Using proxy: 52.172.1.186:80
+2024-04-12 11:51:35,501 - __main__ - INFO - Page 92 fetched 15 items
+2024-04-12 11:51:35,521 - __main__ - INFO - Using proxy: 27.70.170.43:10004
+2024-04-12 11:51:47,929 - __main__ - INFO - Page 93 fetched 15 items
+2024-04-12 11:51:47,948 - __main__ - INFO - Using proxy: 27.70.170.43:10001
+2024-04-12 11:51:56,532 - __main__ - INFO - Page 94 fetched 15 items
+2024-04-12 11:51:56,553 - __main__ - INFO - Using proxy: 118.31.105.240:80
+2024-04-12 11:52:07,039 - __main__ - INFO - Page 95 fetched 15 items
+2024-04-12 11:52:07,059 - __main__ - INFO - Using proxy: 47.96.252.117:80
+2024-04-12 11:52:19,191 - __main__ - INFO - Page 96 fetched 15 items
+2024-04-12 11:52:19,210 - __main__ - INFO - Using proxy: 58.246.58.150:9002
+2024-04-12 11:52:25,911 - __main__ - INFO - Page 97 fetched 15 items
+2024-04-12 11:52:25,930 - __main__ - INFO - Using proxy: 134.35.171.160:8080
+2024-04-12 11:52:35,275 - __main__ - INFO - Page 98 fetched 15 items
+2024-04-12 11:52:35,296 - __main__ - INFO - Using proxy: 27.70.170.43:10006
+2024-04-12 11:52:47,242 - __main__ - INFO - Page 99 fetched 15 items
+2024-04-12 11:52:47,264 - __main__ - INFO - Using proxy: 49.7.11.187:80
+2024-04-12 11:52:59,840 - __main__ - INFO - Page 100 fetched 15 items
+2024-04-12 11:52:59,858 - __main__ - INFO - Using proxy: 112.124.32.156:80
+2024-04-12 11:53:09,556 - __main__ - ERROR - Request failed: 403 Client Error: Forbidden for url: https://www.dianping.com/shop/l9qwmkX3FoD9tExc/review_all/p101, retrying...
+2024-04-12 11:53:21,593 - __main__ - ERROR - Request failed: 403 Client Error: Forbidden for url: https://www.dianping.com/shop/l9qwmkX3FoD9tExc/review_all/p101, retrying...
+2024-04-12 13:33:51,160 - main - INFO - Using proxy: 27.70.170.43:10006
+2024-04-13 00:02:33,959 - main - INFO - Using proxy: 112.51.96.118:9091
+2024-04-13 05:56:33,985 - __main__ - INFO - Using proxy: 111.26.177.28:9091
+2024-04-13 05:56:34,038 - __main__ - ERROR - Request failed: 403 Client Error: Forbidden for url: https://www.dianping.com/shop/l9qwmkX3FoD9tExc/review_all/p101, retrying...
+2024-04-13 05:56:40,463 - __main__ - ERROR - Request failed: 403 Client Error: Forbidden for url: https://www.dianping.com/shop/l9qwmkX3FoD9tExc/review_all/p101, retrying...
+2024-04-13 05:59:39,224 - __main__ - INFO - Using proxy: 120.26.13.191:80
+2024-04-13 06:02:00,709 - __main__ - INFO - Using proxy: 188.240.108.91:8080
+2024-04-13 06:02:00,719 - __main__ - INFO - Using proxy to test cookies: 47.96.252.117:80
+2024-04-13 06:02:00,821 - __main__ - INFO - Cookies are valid.
+2024-04-13 06:02:02,351 - __main__ - INFO - Page 101 fetched 15 items
+2024-04-13 06:02:02,369 - __main__ - INFO - Using proxy: 117.160.250.134:80
+2024-04-13 06:02:02,379 - __main__ - INFO - Using proxy to test cookies: 134.35.155.222:8080
+2024-04-13 06:02:02,472 - __main__ - INFO - Cookies are valid.
+2024-04-13 06:02:03,056 - __main__ - INFO - Page 102 fetched 15 items
+2024-04-13 06:02:03,074 - __main__ - INFO - Using proxy: 121.40.216.235:80
+2024-04-13 06:02:03,084 - __main__ - INFO - Using proxy to test cookies: 47.96.252.117:80
+2024-04-13 06:02:03,190 - __main__ - INFO - Cookies are valid.
+2024-04-13 06:02:03,859 - __main__ - INFO - Page 103 fetched 15 items
+2024-04-13 06:02:03,877 - __main__ - INFO - Using proxy: 120.26.195.89:80
+2024-04-13 06:02:03,886 - __main__ - INFO - Using proxy to test cookies: 117.160.250.134:80
+2024-04-13 06:02:03,995 - __main__ - INFO - Cookies are valid.
+2024-04-13 06:02:04,549 - __main__ - INFO - Page 104 fetched 15 items
+2024-04-13 06:02:04,567 - __main__ - INFO - Using proxy: 120.26.13.191:80
+2024-04-13 06:02:04,577 - __main__ - INFO - Using proxy to test cookies: 182.61.38.114:82
+2024-04-13 06:02:04,678 - __main__ - INFO - Cookies are valid.
+2024-04-13 06:02:06,432 - __main__ - INFO - Page 105 fetched 15 items
+2024-04-13 06:02:06,449 - __main__ - INFO - Using proxy: 117.1.208.62:4000
+2024-04-13 06:02:06,459 - __main__ - INFO - Using proxy to test cookies: 120.26.13.191:80
+2024-04-13 06:02:06,607 - __main__ - INFO - Cookies are valid.
+2024-04-13 06:02:07,359 - __main__ - INFO - Page 106 fetched 15 items
+2024-04-13 06:02:07,376 - __main__ - INFO - Using proxy: 27.79.147.195:4005
+2024-04-13 06:02:07,386 - __main__ - INFO - Using proxy to test cookies: 118.178.234.137:80
+2024-04-13 06:02:07,497 - __main__ - INFO - Cookies are valid.
+2024-04-13 06:02:08,263 - __main__ - INFO - Page 107 fetched 15 items
+2024-04-13 06:02:08,281 - __main__ - INFO - Using proxy: 134.35.21.10:8080
+2024-04-13 06:02:08,290 - __main__ - INFO - Using proxy to test cookies: 134.35.21.10:8080
+2024-04-13 06:02:08,383 - __main__ - INFO - Cookies are valid.
+2024-04-13 06:02:08,986 - __main__ - INFO - Page 108 fetched 15 items
+2024-04-13 06:02:09,004 - __main__ - INFO - Using proxy: 121.40.216.235:80
+2024-04-13 06:02:09,015 - __main__ - INFO - Using proxy to test cookies: 120.27.143.33:80
+2024-04-13 06:02:09,128 - __main__ - INFO - Cookies are valid.
+2024-04-13 06:02:09,736 - __main__ - INFO - Page 109 fetched 15 items
+2024-04-13 06:02:09,753 - __main__ - INFO - Using proxy: 121.41.54.26:80
+2024-04-13 06:02:09,762 - __main__ - INFO - Using proxy to test cookies: 118.178.234.137:80
+2024-04-13 06:02:09,866 - __main__ - INFO - Cookies are valid.
+2024-04-13 06:02:10,422 - __main__ - INFO - Page 110 fetched 15 items
+2024-04-13 06:02:10,439 - __main__ - INFO - Using proxy: 222.138.76.6:9002
+2024-04-13 06:02:10,449 - __main__ - INFO - Using proxy to test cookies: 116.108.129.181:4003
+2024-04-13 06:02:10,549 - __main__ - INFO - Cookies are valid.
+2024-04-13 06:02:11,114 - __main__ - INFO - Page 111 fetched 15 items
+2024-04-13 06:02:11,135 - __main__ - INFO - Using proxy: 120.26.195.89:80
+2024-04-13 06:02:11,145 - __main__ - INFO - Using proxy to test cookies: 121.41.58.212:80
+2024-04-13 06:02:11,263 - __main__ - INFO - Cookies are valid.
+2024-04-13 06:02:11,855 - __main__ - INFO - Page 112 fetched 15 items
+2024-04-13 06:02:11,872 - __main__ - INFO - Using proxy: 180.123.111.226:8089
+2024-04-13 06:02:11,881 - __main__ - INFO - Using proxy to test cookies: 36.134.91.82:8888
+2024-04-13 06:02:11,978 - __main__ - INFO - Cookies are valid.
+2024-04-13 06:02:12,557 - __main__ - INFO - Page 113 fetched 15 items
+2024-04-13 06:02:12,575 - __main__ - INFO - Using proxy: 188.240.108.91:8080
+2024-04-13 06:02:12,586 - __main__ - INFO - Using proxy to test cookies: 128.140.28.137:8080
+2024-04-13 06:02:12,680 - __main__ - INFO - Cookies are valid.
+2024-04-13 06:02:13,275 - __main__ - INFO - Page 114 fetched 15 items
+2024-04-13 06:02:13,293 - __main__ - INFO - Using proxy: 27.79.147.195:4005
+2024-04-13 06:02:13,303 - __main__ - INFO - Using proxy to test cookies: 112.124.32.156:80
+2024-04-13 06:02:13,425 - __main__ - INFO - Cookies are valid.
+2024-04-13 06:02:14,053 - __main__ - INFO - Page 115 fetched 15 items
+2024-04-13 06:02:14,070 - __main__ - INFO - Using proxy: 122.224.56.198:7302
+2024-04-13 06:02:14,080 - __main__ - INFO - Using proxy to test cookies: 118.178.234.137:80
+2024-04-13 06:02:14,170 - __main__ - INFO - Cookies are valid.
+2024-04-13 06:02:14,770 - __main__ - INFO - Page 116 fetched 15 items
+2024-04-13 06:02:14,787 - __main__ - INFO - Using proxy: 116.108.129.181:4003
+2024-04-13 06:02:14,796 - __main__ - INFO - Using proxy to test cookies: 101.37.18.160:80
+2024-04-13 06:02:14,890 - __main__ - INFO - Cookies are valid.
+2024-04-13 06:02:15,421 - __main__ - INFO - Page 117 fetched 15 items
+2024-04-13 06:02:15,438 - __main__ - INFO - Using proxy: 128.140.28.137:8080
+2024-04-13 06:02:15,447 - __main__ - INFO - Using proxy to test cookies: 180.123.111.226:8089
+2024-04-13 06:02:15,556 - __main__ - INFO - Cookies are valid.
+2024-04-13 06:02:16,139 - __main__ - INFO - Page 118 fetched 15 items
+2024-04-13 06:02:16,156 - __main__ - INFO - Using proxy: 101.37.18.160:80
+2024-04-13 06:02:16,167 - __main__ - INFO - Using proxy to test cookies: 120.26.195.89:80
+2024-04-13 06:02:16,271 - __main__ - INFO - Cookies are valid.
+2024-04-13 06:02:16,854 - __main__ - INFO - Page 119 fetched 15 items
+2024-04-13 06:02:16,871 - __main__ - INFO - Using proxy: 114.55.176.250:80
+2024-04-13 06:02:16,880 - __main__ - INFO - Using proxy to test cookies: 101.37.26.136:80
+2024-04-13 06:02:17,021 - __main__ - INFO - Cookies are valid.
+2024-04-13 06:02:17,664 - __main__ - INFO - Page 120 fetched 15 items
+2024-04-13 06:02:17,682 - __main__ - INFO - Using proxy: 128.140.28.137:8080
+2024-04-13 06:02:17,692 - __main__ - INFO - Using proxy to test cookies: 120.27.143.33:80
+2024-04-13 06:02:17,812 - __main__ - INFO - Cookies are valid.
+2024-04-13 06:02:18,390 - __main__ - INFO - Page 121 fetched 15 items
+2024-04-13 06:02:18,407 - __main__ - INFO - Using proxy: 27.79.147.195:4005
+2024-04-13 06:02:18,416 - __main__ - INFO - Using proxy to test cookies: 120.27.143.33:80
+2024-04-13 06:02:18,509 - __main__ - INFO - Cookies are valid.
+2024-04-13 06:02:47,628 - __main__ - INFO - Using proxy: 47.96.252.117:80
+2024-04-13 06:02:47,638 - __main__ - INFO - Using proxy to test cookies: 121.41.54.26:80
+2024-04-13 06:02:47,749 - __main__ - INFO - Cookies are valid.
+2024-04-13 06:02:48,302 - __main__ - INFO - Page 122 fetched 15 items
+2024-04-13 06:02:48,320 - __main__ - INFO - Using proxy: 47.96.252.117:80
+2024-04-13 06:02:48,330 - __main__ - INFO - Using proxy to test cookies: 222.138.76.6:9002
+2024-04-13 06:02:48,430 - __main__ - INFO - Cookies are valid.
+2024-04-13 06:02:48,961 - __main__ - INFO - Page 123 fetched 15 items
+2024-04-13 06:02:48,979 - __main__ - INFO - Using proxy: 117.1.208.62:4000
+2024-04-13 06:02:48,989 - __main__ - INFO - Using proxy to test cookies: 134.35.155.222:8080
+2024-04-13 06:02:49,092 - __main__ - INFO - Cookies are valid.
+2024-04-13 06:02:49,733 - __main__ - INFO - Page 124 fetched 15 items
+2024-04-13 06:02:49,750 - __main__ - INFO - Using proxy: 121.41.58.212:80
+2024-04-13 06:02:49,759 - __main__ - INFO - Using proxy to test cookies: 58.20.248.139:9002
+2024-04-13 06:02:49,849 - __main__ - INFO - Cookies are valid.
+2024-04-13 06:02:50,385 - __main__ - INFO - Page 125 fetched 15 items
+2024-04-13 06:02:50,402 - __main__ - INFO - Using proxy: 120.26.200.176:80
+2024-04-13 06:02:50,411 - __main__ - INFO - Using proxy to test cookies: 223.113.80.158:9091
+2024-04-13 06:02:50,506 - __main__ - INFO - Cookies are valid.
+2024-04-13 06:02:51,073 - __main__ - INFO - Page 126 fetched 15 items
+2024-04-13 06:02:51,090 - __main__ - INFO - Using proxy: 118.31.169.137:80
+2024-04-13 06:02:51,099 - __main__ - INFO - Using proxy to test cookies: 128.140.28.137:8080
+2024-04-13 06:02:51,207 - __main__ - INFO - Cookies are valid.
+2024-04-13 06:02:51,715 - __main__ - INFO - Page 127 fetched 15 items
+2024-04-13 06:02:51,732 - __main__ - INFO - Using proxy: 120.27.143.33:80
+2024-04-13 06:02:51,744 - __main__ - INFO - Using proxy to test cookies: 117.69.237.174:8089
+2024-04-13 06:02:51,834 - __main__ - INFO - Cookies are valid.
+2024-04-13 06:02:52,408 - __main__ - INFO - Page 128 fetched 15 items
+2024-04-13 06:02:52,426 - __main__ - INFO - Using proxy: 223.100.178.167:9091
+2024-04-13 06:02:52,435 - __main__ - INFO - Using proxy to test cookies: 118.178.234.137:80
+2024-04-13 06:02:52,525 - __main__ - INFO - Cookies are valid.
+2024-04-13 06:02:53,075 - __main__ - INFO - Page 129 fetched 15 items
+2024-04-13 06:02:53,092 - __main__ - INFO - Using proxy: 36.134.91.82:8888
+2024-04-13 06:02:53,102 - __main__ - INFO - Using proxy to test cookies: 116.108.129.181:4001
+2024-04-13 06:02:53,191 - __main__ - INFO - Cookies are valid.
+2024-04-13 06:02:53,781 - __main__ - INFO - Page 130 fetched 15 items
+2024-04-13 06:02:53,798 - __main__ - INFO - Using proxy: 101.37.26.136:80
+2024-04-13 06:02:53,808 - __main__ - INFO - Using proxy to test cookies: 114.231.8.164:8089
+2024-04-13 06:02:53,916 - __main__ - INFO - Cookies are valid.
+2024-04-13 06:02:54,407 - __main__ - INFO - Page 131 fetched 15 items
+2024-04-13 06:02:54,424 - __main__ - INFO - Using proxy: 47.96.143.117:80
+2024-04-13 06:02:54,433 - __main__ - INFO - Using proxy to test cookies: 221.6.139.190:9002
+2024-04-13 06:02:54,530 - __main__ - INFO - Cookies are valid.
+2024-04-13 06:02:55,065 - __main__ - INFO - Page 132 fetched 15 items
+2024-04-13 06:02:55,083 - __main__ - INFO - Using proxy: 120.26.13.191:80
+2024-04-13 06:02:55,093 - __main__ - INFO - Using proxy to test cookies: 182.61.38.114:82
+2024-04-13 06:02:55,241 - __main__ - INFO - Cookies are valid.
+2024-04-13 06:02:55,806 - __main__ - INFO - Page 133 fetched 15 items
+2024-04-13 06:02:55,823 - __main__ - INFO - Using proxy: 114.231.82.131:8089
+2024-04-13 06:02:55,834 - __main__ - INFO - Using proxy to test cookies: 58.20.248.139:9002
+2024-04-13 06:02:55,930 - __main__ - INFO - Cookies are valid.
+2024-04-13 06:02:56,450 - __main__ - INFO - Page 134 fetched 15 items
+2024-04-13 06:02:56,468 - __main__ - INFO - Using proxy: 116.108.129.181:4001
+2024-04-13 06:02:56,478 - __main__ - INFO - Using proxy to test cookies: 180.123.111.226:8089
+2024-04-13 06:02:56,592 - __main__ - INFO - Cookies are valid.
+2024-04-13 06:02:57,117 - __main__ - INFO - Page 135 fetched 15 items
+2024-04-13 06:02:57,135 - __main__ - INFO - Using proxy: 182.61.38.114:82
+2024-04-13 06:02:57,145 - __main__ - INFO - Using proxy to test cookies: 121.41.58.212:80
+2024-04-13 06:02:57,290 - __main__ - INFO - Cookies are valid.
+2024-04-13 06:02:57,857 - __main__ - INFO - Page 136 fetched 15 items
+2024-04-13 06:02:57,877 - __main__ - INFO - Using proxy: 116.108.129.181:4003
+2024-04-13 06:02:57,887 - __main__ - INFO - Using proxy to test cookies: 116.108.129.181:4003
+2024-04-13 06:02:58,053 - __main__ - INFO - Cookies are valid.
+2024-04-13 06:02:58,577 - __main__ - INFO - Page 137 fetched 15 items
+2024-04-13 06:02:58,595 - __main__ - INFO - Using proxy: 117.1.208.62:4000
+2024-04-13 06:02:58,605 - __main__ - INFO - Using proxy to test cookies: 221.6.139.190:9002
+2024-04-13 06:02:58,702 - __main__ - INFO - Cookies are valid.
+2024-04-13 06:02:59,430 - __main__ - INFO - Page 138 fetched 15 items
+2024-04-13 06:02:59,448 - __main__ - INFO - Using proxy: 117.69.237.174:8089
+2024-04-13 06:02:59,457 - __main__ - INFO - Using proxy to test cookies: 117.160.250.136:8899
+2024-04-13 06:02:59,543 - __main__ - INFO - Cookies are valid.
+2024-04-13 06:03:00,095 - __main__ - INFO - Page 139 fetched 15 items
+2024-04-13 06:03:00,113 - __main__ - INFO - Using proxy: 121.41.58.212:80
+2024-04-13 06:03:00,123 - __main__ - INFO - Using proxy to test cookies: 120.26.13.191:80
+2024-04-13 06:03:00,213 - __main__ - INFO - Cookies are valid.
+2024-04-13 06:03:00,824 - __main__ - INFO - Page 140 fetched 15 items
+2024-04-13 06:03:00,841 - __main__ - INFO - Using proxy: 114.231.8.164:8089
+2024-04-13 06:03:00,850 - __main__ - INFO - Using proxy to test cookies: 221.6.139.190:9002
+2024-04-13 06:03:00,950 - __main__ - INFO - Cookies are valid.
+2024-04-13 06:03:01,584 - __main__ - INFO - Page 141 fetched 15 items
+2024-04-13 06:03:01,601 - __main__ - INFO - Using proxy: 223.100.178.167:9091
+2024-04-13 06:03:01,612 - __main__ - INFO - Using proxy to test cookies: 118.31.105.240:80
+2024-04-13 06:03:01,736 - __main__ - INFO - Cookies are valid.
+2024-04-13 06:03:02,379 - __main__ - INFO - Page 142 fetched 15 items
+2024-04-13 06:03:02,397 - __main__ - INFO - Using proxy: 117.1.208.62:4000
+2024-04-13 06:03:02,407 - __main__ - INFO - Using proxy to test cookies: 47.96.252.117:80
+2024-04-13 06:03:02,510 - __main__ - INFO - Cookies are valid.
+2024-04-13 06:03:03,023 - __main__ - INFO - Page 143 fetched 15 items
+2024-04-13 06:03:03,039 - __main__ - INFO - Using proxy: 120.26.13.191:80
+2024-04-13 06:03:03,048 - __main__ - INFO - Using proxy to test cookies: 41.65.0.203:1976
+2024-04-13 06:03:03,173 - __main__ - INFO - Cookies are valid.
+2024-04-13 06:03:03,822 - __main__ - INFO - Page 144 fetched 15 items
+2024-04-13 06:03:03,840 - __main__ - INFO - Using proxy: 182.106.220.252:9091
+2024-04-13 06:03:03,849 - __main__ - INFO - Using proxy to test cookies: 114.55.108.29:80
+2024-04-13 06:03:03,952 - __main__ - INFO - Cookies are valid.
+2024-04-13 06:03:04,512 - __main__ - INFO - Page 145 fetched 15 items
+2024-04-13 06:03:04,529 - __main__ - INFO - Using proxy: 118.178.234.137:80
+2024-04-13 06:03:04,539 - __main__ - INFO - Using proxy to test cookies: 120.26.200.176:80
+2024-04-13 06:03:04,677 - __main__ - INFO - Cookies are valid.
+2024-04-13 06:03:05,225 - __main__ - INFO - Page 146 fetched 15 items
+2024-04-13 06:03:05,242 - __main__ - INFO - Using proxy: 221.6.139.190:9002
+2024-04-13 06:03:05,253 - __main__ - INFO - Using proxy to test cookies: 118.31.105.240:80
+2024-04-13 06:03:05,363 - __main__ - INFO - Cookies are valid.
+2024-04-13 06:03:05,948 - __main__ - INFO - Page 147 fetched 15 items
+2024-04-13 06:03:05,965 - __main__ - INFO - Using proxy: 121.41.54.26:80
+2024-04-13 06:03:05,975 - __main__ - INFO - Using proxy to test cookies: 121.40.216.235:80
+2024-04-13 06:03:06,071 - __main__ - INFO - Cookies are valid.
+2024-04-13 06:05:37,511 - __main__ - INFO - Using proxy: 188.240.108.91:8080
+2024-04-13 06:05:37,521 - __main__ - INFO - Using proxy to test cookies: 111.26.177.28:9091
+2024-04-13 06:05:37,624 - __main__ - INFO - Cookies are valid.
+2024-04-13 06:05:39,722 - __main__ - INFO - Page 148 fetched 15 items
+2024-04-13 06:05:48,091 - __main__ - INFO - Using proxy: 114.55.108.29:80
+2024-04-13 06:05:48,102 - __main__ - INFO - Using proxy to test cookies: 117.160.250.134:80
+2024-04-13 06:05:48,237 - __main__ - INFO - Cookies are valid.
+2024-04-13 06:05:50,769 - __main__ - INFO - Page 149 fetched 15 items
+2024-04-13 06:05:58,527 - __main__ - INFO - Using proxy: 120.27.143.33:80
+2024-04-13 06:05:58,537 - __main__ - INFO - Using proxy to test cookies: 188.240.108.91:8080
+2024-04-13 06:05:58,617 - __main__ - INFO - Cookies are valid.
+2024-04-13 06:06:01,153 - __main__ - INFO - Page 150 fetched 15 items
+2024-04-13 06:06:11,358 - __main__ - INFO - Using proxy: 223.113.80.158:9091
+2024-04-13 06:06:11,369 - __main__ - INFO - Using proxy to test cookies: 114.231.8.213:8089
+2024-04-13 06:06:11,494 - __main__ - INFO - Cookies are valid.
+2024-04-13 06:06:14,014 - __main__ - INFO - Page 151 fetched 15 items
+2024-04-13 06:06:22,123 - __main__ - INFO - Using proxy: 222.138.76.6:9002
+2024-04-13 06:06:22,133 - __main__ - INFO - Using proxy to test cookies: 114.55.176.250:80
+2024-04-13 06:06:22,233 - __main__ - INFO - Cookies are valid.
+2024-04-13 06:06:24,335 - __main__ - INFO - Page 152 fetched 15 items
+2024-04-13 06:06:32,236 - __main__ - INFO - Using proxy: 218.23.15.154:9002
+2024-04-13 06:06:32,246 - __main__ - INFO - Using proxy to test cookies: 111.26.177.28:9091
+2024-04-13 06:06:32,340 - __main__ - INFO - Cookies are valid.
+2024-04-13 06:06:33,990 - __main__ - INFO - Page 153 fetched 15 items
+2024-04-13 06:06:43,348 - __main__ - INFO - Using proxy: 114.231.82.131:8089
+2024-04-13 06:06:43,358 - __main__ - INFO - Using proxy to test cookies: 120.27.143.33:80
+2024-04-13 06:06:43,460 - __main__ - INFO - Cookies are valid.
+2024-04-13 06:06:45,240 - __main__ - INFO - Page 154 fetched 15 items
+2024-04-13 06:06:53,447 - __main__ - INFO - Using proxy: 47.96.143.117:80
+2024-04-13 06:06:53,457 - __main__ - INFO - Using proxy to test cookies: 111.26.177.28:9091
+2024-04-13 06:06:53,575 - __main__ - INFO - Cookies are valid.
+2024-04-13 06:07:09,441 - __main__ - INFO - Using proxy: 112.124.32.156:80
+2024-04-13 06:07:09,451 - __main__ - INFO - Using proxy to test cookies: 116.108.129.181:4003
+2024-04-13 06:07:09,550 - __main__ - INFO - Cookies are valid.
+2024-04-13 06:07:11,297 - __main__ - INFO - Page 155 fetched 15 items
+2024-04-13 06:07:21,555 - __main__ - INFO - Using proxy: 120.27.143.33:80
+2024-04-13 06:07:21,565 - __main__ - INFO - Using proxy to test cookies: 111.26.177.28:9091
+2024-04-13 06:07:21,670 - __main__ - INFO - Cookies are valid.
+2024-04-13 06:07:24,028 - __main__ - INFO - Page 156 fetched 15 items
+2024-04-13 06:07:35,752 - __main__ - INFO - Using proxy: 111.40.11.204:9091
+2024-04-13 06:07:35,761 - __main__ - INFO - Using proxy to test cookies: 188.240.108.91:8080
+2024-04-13 06:07:35,873 - __main__ - INFO - Cookies are valid.
+2024-04-13 06:07:38,292 - __main__ - INFO - Page 157 fetched 15 items
+2024-04-13 06:07:47,812 - __main__ - INFO - Using proxy: 222.138.76.6:9002
+2024-04-13 06:07:47,822 - __main__ - INFO - Using proxy to test cookies: 223.100.178.167:9091
+2024-04-13 06:07:47,941 - __main__ - INFO - Cookies are valid.
+2024-04-13 06:07:50,214 - __main__ - INFO - Page 158 fetched 15 items
+2024-04-13 06:08:01,221 - __main__ - INFO - Using proxy: 121.43.35.119:80
+2024-04-13 06:08:01,231 - __main__ - INFO - Using proxy to test cookies: 182.106.220.252:9091
+2024-04-13 06:08:01,345 - __main__ - INFO - Cookies are valid.
+2024-04-13 06:08:03,078 - __main__ - INFO - Page 159 fetched 15 items
+2024-04-13 06:08:11,799 - __main__ - INFO - Using proxy: 101.37.18.160:80
+2024-04-13 06:08:11,808 - __main__ - INFO - Using proxy to test cookies: 182.106.220.252:9091
+2024-04-13 06:08:11,910 - __main__ - INFO - Cookies are valid.
+2024-04-13 06:08:13,770 - __main__ - INFO - Page 160 fetched 15 items
+2024-04-13 06:08:20,799 - __main__ - INFO - Using proxy: 47.106.112.207:8081
+2024-04-13 06:08:20,809 - __main__ - INFO - Using proxy to test cookies: 114.231.8.213:8089
+2024-04-13 06:08:20,904 - __main__ - INFO - Cookies are valid.
+2024-04-13 06:08:23,129 - __main__ - INFO - Page 161 fetched 15 items
+2024-04-13 06:08:29,480 - __main__ - INFO - Using proxy: 134.35.21.10:8080
+2024-04-13 06:08:29,490 - __main__ - INFO - Using proxy to test cookies: 47.96.252.117:80
+2024-04-13 06:08:29,588 - __main__ - INFO - Cookies are valid.
+2024-04-13 06:08:31,559 - __main__ - INFO - Page 162 fetched 15 items
+2024-04-13 06:08:40,457 - __main__ - INFO - Using proxy: 221.6.139.190:9002
+2024-04-13 06:08:40,467 - __main__ - INFO - Using proxy to test cookies: 111.26.177.28:9091
+2024-04-13 06:08:40,575 - __main__ - INFO - Cookies are valid.
+2024-04-13 06:08:42,784 - __main__ - INFO - Page 163 fetched 15 items
+2024-04-13 06:08:51,424 - __main__ - INFO - Using proxy: 120.27.143.33:80
+2024-04-13 06:08:51,433 - __main__ - INFO - Using proxy to test cookies: 134.35.21.10:8080
+2024-04-13 06:08:51,540 - __main__ - INFO - Cookies are valid.
+2024-04-13 06:08:53,242 - __main__ - INFO - Page 164 fetched 15 items
+2024-04-13 06:09:01,190 - __main__ - INFO - Using proxy: 121.43.35.119:80
+2024-04-13 06:09:01,201 - __main__ - INFO - Using proxy to test cookies: 218.23.15.154:9002
+2024-04-13 06:09:01,308 - __main__ - INFO - Cookies are valid.
+2024-04-13 06:09:03,614 - __main__ - INFO - Page 165 fetched 15 items
+2024-04-13 06:09:13,156 - __main__ - INFO - Using proxy: 120.26.200.176:80
+2024-04-13 06:09:13,166 - __main__ - INFO - Using proxy to test cookies: 116.62.159.106:80
+2024-04-13 06:09:13,256 - __main__ - INFO - Cookies are valid.
+2024-04-13 06:09:15,282 - __main__ - INFO - Page 166 fetched 15 items
+2024-04-13 06:09:23,889 - __main__ - INFO - Using proxy: 114.106.135.227:8089
+2024-04-13 06:09:23,899 - __main__ - INFO - Using proxy to test cookies: 123.154.20.206:8085
+2024-04-13 06:09:23,988 - __main__ - INFO - Cookies are valid.
+2024-04-13 06:09:25,569 - __main__ - INFO - Page 167 fetched 15 items
+2024-04-13 06:09:31,893 - __main__ - INFO - Using proxy: 101.37.26.136:80
+2024-04-13 06:09:31,903 - __main__ - INFO - Using proxy to test cookies: 188.240.108.91:8080
+2024-04-13 06:09:32,018 - __main__ - INFO - Cookies are valid.
+2024-04-13 06:09:33,785 - __main__ - INFO - Page 168 fetched 15 items
+2024-04-13 06:09:42,775 - __main__ - INFO - Using proxy: 134.35.21.10:8080
+2024-04-13 06:09:42,785 - __main__ - INFO - Using proxy to test cookies: 111.26.177.28:9091
+2024-04-13 06:09:42,885 - __main__ - INFO - Cookies are valid.
+2024-04-13 06:09:45,031 - __main__ - INFO - Page 169 fetched 15 items
+2024-04-13 06:09:52,023 - __main__ - INFO - Using proxy: 223.100.178.167:9091
+2024-04-13 06:09:52,035 - __main__ - INFO - Using proxy to test cookies: 120.27.143.33:80
+2024-04-13 06:09:52,151 - __main__ - INFO - Cookies are valid.
+2024-04-13 06:09:54,572 - __main__ - INFO - Page 170 fetched 15 items
+2024-04-13 06:10:03,845 - __main__ - INFO - Using proxy: 222.138.76.6:9002
+2024-04-13 06:10:03,855 - __main__ - INFO - Using proxy to test cookies: 47.106.112.207:8081
+2024-04-13 06:10:03,945 - __main__ - INFO - Cookies are valid.
+2024-04-13 06:10:05,722 - __main__ - INFO - Page 171 fetched 15 items
+2024-04-13 06:10:15,624 - __main__ - INFO - Using proxy: 128.140.28.137:8080
+2024-04-13 06:10:15,635 - __main__ - INFO - Using proxy to test cookies: 223.100.178.167:9091
+2024-04-13 06:10:15,732 - __main__ - INFO - Cookies are valid.
+2024-04-13 06:10:18,214 - __main__ - INFO - Page 172 fetched 15 items
+2024-04-13 06:10:29,738 - __main__ - INFO - Using proxy: 101.37.26.136:80
+2024-04-13 06:10:29,748 - __main__ - INFO - Using proxy to test cookies: 123.126.158.50:80
+2024-04-13 06:10:29,892 - __main__ - INFO - Cookies are valid.
+2024-04-13 06:10:32,019 - __main__ - INFO - Page 173 fetched 15 items
+2024-04-13 06:10:41,471 - __main__ - INFO - Using proxy: 111.26.177.28:9091
+2024-04-13 06:10:41,480 - __main__ - INFO - Using proxy to test cookies: 223.100.178.167:9091
+2024-04-13 06:10:41,579 - __main__ - INFO - Cookies are valid.
+2024-04-13 06:10:43,984 - __main__ - INFO - Page 174 fetched 15 items
+2024-04-13 06:10:55,262 - __main__ - INFO - Using proxy: 134.35.21.10:8080
+2024-04-13 06:10:55,272 - __main__ - INFO - Using proxy to test cookies: 188.240.108.91:8080
+2024-04-13 06:10:55,370 - __main__ - INFO - Cookies are valid.
+2024-04-13 06:10:57,621 - __main__ - INFO - Page 175 fetched 15 items
+2024-04-13 06:11:08,411 - __main__ - INFO - Using proxy: 121.43.35.119:80
+2024-04-13 06:11:08,422 - __main__ - INFO - Using proxy to test cookies: 223.100.178.167:9091
+2024-04-13 06:11:08,546 - __main__ - INFO - Cookies are valid.
+2024-04-13 06:11:11,100 - __main__ - INFO - Page 176 fetched 15 items
+2024-04-13 06:11:20,049 - __main__ - INFO - Using proxy: 221.6.139.190:9002
+2024-04-13 06:11:20,059 - __main__ - INFO - Using proxy to test cookies: 182.61.38.114:82
+2024-04-13 06:11:20,173 - __main__ - INFO - Cookies are valid.
+2024-04-13 06:11:22,418 - __main__ - INFO - Page 177 fetched 15 items
+2024-04-13 06:11:32,494 - __main__ - INFO - Using proxy: 121.41.58.212:80
+2024-04-13 06:11:32,506 - __main__ - INFO - Using proxy to test cookies: 47.96.143.117:80
+2024-04-13 06:11:32,594 - __main__ - INFO - Cookies are valid.
+2024-04-13 06:11:34,389 - __main__ - INFO - Page 178 fetched 15 items
+2024-04-13 06:11:43,205 - __main__ - INFO - Using proxy: 36.134.91.82:8888
+2024-04-13 06:11:43,215 - __main__ - INFO - Using proxy to test cookies: 222.138.76.6:9002
+2024-04-13 06:11:43,325 - __main__ - INFO - Cookies are valid.
+2024-04-13 06:11:45,047 - __main__ - INFO - Page 179 fetched 15 items
+2024-04-13 06:11:52,319 - __main__ - INFO - Using proxy: 183.215.23.242:9091
+2024-04-13 06:11:52,329 - __main__ - INFO - Using proxy to test cookies: 112.124.32.156:80
+2024-04-13 06:11:52,469 - __main__ - INFO - Cookies are valid.
+2024-04-13 06:11:54,450 - __main__ - INFO - Page 180 fetched 15 items
+2024-04-13 06:12:05,528 - __main__ - INFO - Using proxy: 36.134.91.82:8888
+2024-04-13 06:12:05,538 - __main__ - INFO - Using proxy to test cookies: 116.62.159.106:80
+2024-04-13 06:12:05,658 - __main__ - INFO - Cookies are valid.
+2024-04-13 06:12:07,457 - __main__ - INFO - Page 181 fetched 15 items
+2024-04-13 06:12:17,966 - __main__ - INFO - Using proxy: 120.26.195.89:80
+2024-04-13 06:12:17,975 - __main__ - INFO - Using proxy to test cookies: 117.160.250.136:8899
+2024-04-13 06:12:18,071 - __main__ - INFO - Cookies are valid.
+2024-04-13 06:12:20,522 - __main__ - INFO - Page 182 fetched 15 items
+2024-04-13 06:12:27,995 - __main__ - INFO - Using proxy: 182.106.220.252:9091
+2024-04-13 06:12:28,008 - __main__ - INFO - Using proxy to test cookies: 121.40.216.235:80
+2024-04-13 06:12:28,102 - __main__ - INFO - Cookies are valid.
+2024-04-13 06:12:30,090 - __main__ - INFO - Page 183 fetched 15 items
+2024-04-13 06:12:38,642 - __main__ - INFO - Using proxy: 118.178.234.137:80
+2024-04-13 06:12:38,651 - __main__ - INFO - Using proxy to test cookies: 47.93.121.200:80
+2024-04-13 06:12:38,760 - __main__ - INFO - Cookies are valid.
+2024-04-13 06:12:40,488 - __main__ - INFO - Page 184 fetched 15 items
+2024-04-13 06:12:47,194 - __main__ - INFO - Using proxy: 222.138.76.6:9002
+2024-04-13 06:12:47,205 - __main__ - INFO - Using proxy to test cookies: 121.41.58.212:80
+2024-04-13 06:12:47,306 - __main__ - INFO - Cookies are valid.
+2024-04-13 06:12:49,275 - __main__ - INFO - Page 185 fetched 15 items
+2024-04-13 06:13:00,527 - __main__ - INFO - Using proxy: 123.126.158.50:80
+2024-04-13 06:13:00,536 - __main__ - INFO - Using proxy to test cookies: 117.160.250.136:8899
+2024-04-13 06:13:00,620 - __main__ - INFO - Cookies are valid.
+2024-04-13 06:13:03,041 - __main__ - INFO - Page 186 fetched 15 items
+2024-04-13 06:13:14,035 - __main__ - INFO - Using proxy: 121.40.216.235:80
+2024-04-13 06:13:14,045 - __main__ - INFO - Using proxy to test cookies: 116.108.129.181:4001
+2024-04-13 06:13:14,139 - __main__ - INFO - Cookies are valid.
+2024-04-13 06:13:15,766 - __main__ - INFO - Page 187 fetched 15 items
+2024-04-13 06:13:27,725 - __main__ - INFO - Using proxy: 112.124.32.156:80
+2024-04-13 06:13:27,734 - __main__ - INFO - Using proxy to test cookies: 58.246.58.150:9002
+2024-04-13 06:13:27,842 - __main__ - INFO - Cookies are valid.
+2024-04-13 06:13:30,502 - __main__ - INFO - Page 188 fetched 15 items
+2024-04-13 06:13:38,736 - __main__ - INFO - Using proxy: 114.55.176.250:80
+2024-04-13 06:13:38,746 - __main__ - INFO - Using proxy to test cookies: 218.23.15.154:9002
+2024-04-13 06:13:38,859 - __main__ - INFO - Cookies are valid.
+2024-04-13 06:13:40,915 - __main__ - INFO - Page 189 fetched 15 items
+2024-04-13 06:13:47,850 - __main__ - INFO - Using proxy: 123.154.20.206:8085
+2024-04-13 06:13:47,859 - __main__ - INFO - Using proxy to test cookies: 112.124.32.156:80
+2024-04-13 06:13:47,956 - __main__ - INFO - Cookies are valid.
+2024-04-13 06:13:49,713 - __main__ - INFO - Page 190 fetched 15 items
+2024-04-13 06:13:58,829 - __main__ - INFO - Using proxy: 58.246.58.150:9002
+2024-04-13 06:13:58,839 - __main__ - INFO - Using proxy to test cookies: 121.41.58.212:80
+2024-04-13 06:13:58,937 - __main__ - INFO - Cookies are valid.
+2024-04-13 06:14:00,659 - __main__ - INFO - Page 191 fetched 15 items
+2024-04-13 06:14:09,382 - __main__ - INFO - Using proxy: 116.125.141.115:80
+2024-04-13 06:14:09,394 - __main__ - INFO - Using proxy to test cookies: 112.124.32.156:80
+2024-04-13 06:14:09,494 - __main__ - INFO - Cookies are valid.
+2024-04-13 06:14:12,005 - __main__ - INFO - Page 192 fetched 15 items
+2024-04-13 06:14:21,391 - __main__ - INFO - Using proxy: 182.61.38.114:82
+2024-04-13 06:14:21,401 - __main__ - INFO - Using proxy to test cookies: 120.26.200.176:80
+2024-04-13 06:14:21,510 - __main__ - INFO - Cookies are valid.
+2024-04-13 06:14:23,756 - __main__ - INFO - Page 193 fetched 15 items
+2024-04-13 06:14:35,148 - __main__ - INFO - Using proxy: 180.123.111.226:8089
+2024-04-13 06:14:35,158 - __main__ - INFO - Using proxy to test cookies: 121.43.35.119:80
+2024-04-13 06:14:35,270 - __main__ - INFO - Cookies are valid.
+2024-04-13 06:14:37,583 - __main__ - INFO - Page 194 fetched 15 items
+2024-04-13 06:14:47,965 - __main__ - INFO - Using proxy: 120.27.143.33:80
+2024-04-13 06:14:47,975 - __main__ - INFO - Using proxy to test cookies: 120.26.200.176:80
+2024-04-13 06:14:48,083 - __main__ - INFO - Cookies are valid.
+2024-04-13 06:14:50,554 - __main__ - INFO - Page 195 fetched 15 items
+2024-04-13 06:14:58,773 - __main__ - INFO - Using proxy: 41.65.103.29:1981
+2024-04-13 06:14:58,783 - __main__ - INFO - Using proxy to test cookies: 101.37.26.136:80
+2024-04-13 06:14:58,890 - __main__ - INFO - Cookies are valid.
+2024-04-13 06:15:01,285 - __main__ - INFO - Page 196 fetched 15 items
+2024-04-13 06:15:12,221 - __main__ - INFO - Using proxy: 8.130.36.245:8080
+2024-04-13 06:15:12,230 - __main__ - INFO - Using proxy to test cookies: 123.126.158.50:80
+2024-04-13 06:15:12,332 - __main__ - INFO - Cookies are valid.
+2024-04-13 06:15:14,856 - __main__ - INFO - Page 197 fetched 15 items
+2024-04-13 06:15:24,573 - __main__ - INFO - Using proxy: 58.246.58.150:9002
+2024-04-13 06:15:24,583 - __main__ - INFO - Using proxy to test cookies: 120.26.200.176:80
+2024-04-13 06:15:24,677 - __main__ - INFO - Cookies are valid.
+2024-04-13 06:15:26,673 - __main__ - INFO - Page 198 fetched 15 items
+2024-04-13 06:15:38,312 - __main__ - INFO - Using proxy: 41.65.0.203:1976
+2024-04-13 06:15:38,321 - __main__ - INFO - Using proxy to test cookies: 116.62.159.106:80
+2024-04-13 06:15:38,443 - __main__ - INFO - Cookies are valid.
+2024-04-13 06:15:40,469 - __main__ - INFO - Page 199 fetched 15 items
+2024-04-13 06:15:52,120 - __main__ - INFO - Using proxy: 101.37.26.136:80
+2024-04-13 06:15:52,129 - __main__ - INFO - Using proxy to test cookies: 41.65.0.203:1976
+2024-04-13 06:15:52,225 - __main__ - INFO - Cookies are valid.
+2024-04-13 06:15:54,887 - __main__ - INFO - Page 200 fetched 15 items
+2024-04-13 06:16:03,263 - __main__ - INFO - Using proxy: 128.140.28.137:8080
+2024-04-13 06:16:03,275 - __main__ - INFO - Using proxy to test cookies: 117.160.250.136:8899
+2024-04-13 06:16:03,378 - __main__ - INFO - Cookies are valid.
+2024-04-13 06:16:05,164 - __main__ - INFO - Page 201 fetched 15 items
+2024-04-13 06:16:11,842 - __main__ - INFO - Using proxy: 114.231.82.24:8089
+2024-04-13 06:16:11,852 - __main__ - INFO - Using proxy to test cookies: 118.178.234.137:80
+2024-04-13 06:16:11,983 - __main__ - INFO - Cookies are valid.
+2024-04-13 06:16:13,699 - __main__ - INFO - Page 202 fetched 15 items
+2024-04-13 06:16:21,888 - __main__ - INFO - Using proxy: 120.26.13.191:80
+2024-04-13 06:16:21,898 - __main__ - INFO - Using proxy to test cookies: 101.37.18.160:80
+2024-04-13 06:16:21,990 - __main__ - INFO - Cookies are valid.
+2024-04-13 06:16:24,265 - __main__ - INFO - Page 203 fetched 15 items
+2024-04-13 06:16:31,172 - __main__ - INFO - Using proxy: 188.240.108.91:8080
+2024-04-13 06:16:31,182 - __main__ - INFO - Using proxy to test cookies: 222.138.76.6:9002
+2024-04-13 06:16:31,286 - __main__ - INFO - Cookies are valid.
+2024-04-13 06:16:33,326 - __main__ - INFO - Page 204 fetched 15 items
+2024-04-13 06:16:40,196 - __main__ - INFO - Using proxy: 116.108.129.181:4001
+2024-04-13 06:16:40,205 - __main__ - INFO - Using proxy to test cookies: 180.123.111.226:8089
+2024-04-13 06:16:40,338 - __main__ - INFO - Cookies are valid.
+2024-04-13 06:16:42,304 - __main__ - INFO - Page 205 fetched 15 items
+2024-04-13 06:16:54,050 - __main__ - INFO - Using proxy: 134.35.155.222:8080
+2024-04-13 06:16:54,061 - __main__ - INFO - Using proxy to test cookies: 116.108.129.181:4003
+2024-04-13 06:16:54,156 - __main__ - INFO - Cookies are valid.
+2024-04-13 06:16:56,464 - __main__ - INFO - Page 206 fetched 15 items
+2024-04-13 06:17:07,479 - __main__ - INFO - Using proxy: 188.240.108.91:8080
+2024-04-13 06:17:07,488 - __main__ - INFO - Using proxy to test cookies: 118.31.169.137:80
+2024-04-13 06:17:07,599 - __main__ - INFO - Cookies are valid.
+2024-04-13 06:17:09,558 - __main__ - INFO - Page 207 fetched 15 items
+2024-04-13 06:17:17,774 - __main__ - INFO - Using proxy: 58.20.248.139:9002
+2024-04-13 06:17:17,783 - __main__ - INFO - Using proxy to test cookies: 47.96.252.117:80
+2024-04-13 06:17:17,903 - __main__ - INFO - Cookies are valid.
+2024-04-13 06:17:19,504 - __main__ - INFO - Page 208 fetched 15 items
+2024-04-13 06:17:29,579 - __main__ - INFO - Using proxy: 118.31.105.240:80
+2024-04-13 06:17:29,589 - __main__ - INFO - Using proxy to test cookies: 118.31.105.240:80
+2024-04-13 06:17:29,692 - __main__ - INFO - Cookies are valid.
+2024-04-13 06:17:32,204 - __main__ - INFO - Page 209 fetched 15 items
+2024-04-13 06:17:41,061 - __main__ - INFO - Using proxy: 120.27.143.33:80
+2024-04-13 06:17:41,070 - __main__ - INFO - Using proxy to test cookies: 182.61.38.114:82
+2024-04-13 06:17:41,168 - __main__ - INFO - Cookies are valid.
+2024-04-13 06:17:43,054 - __main__ - INFO - Page 210 fetched 15 items
+2024-04-13 06:17:50,833 - __main__ - INFO - Using proxy: 128.140.28.137:8080
+2024-04-13 06:17:50,843 - __main__ - INFO - Using proxy to test cookies: 117.160.250.136:8899
+2024-04-13 06:17:50,951 - __main__ - INFO - Cookies are valid.
+2024-04-13 06:17:52,490 - __main__ - INFO - Page 211 fetched 15 items
+2024-04-13 06:18:02,832 - __main__ - INFO - Using proxy: 122.224.56.198:7302
+2024-04-13 06:18:02,841 - __main__ - INFO - Using proxy to test cookies: 114.55.108.29:80
+2024-04-13 06:18:02,944 - __main__ - INFO - Cookies are valid.
+2024-04-13 06:18:04,936 - __main__ - INFO - Page 212 fetched 15 items
+2024-04-13 06:18:12,827 - __main__ - INFO - Using proxy: 121.40.216.235:80
+2024-04-13 06:18:12,836 - __main__ - INFO - Using proxy to test cookies: 182.106.220.252:9091
+2024-04-13 06:18:12,943 - __main__ - INFO - Cookies are valid.
+2024-04-13 06:18:14,585 - __main__ - INFO - Page 213 fetched 15 items
+2024-04-13 06:18:22,490 - __main__ - INFO - Using proxy: 101.37.18.160:80
+2024-04-13 06:18:22,501 - __main__ - INFO - Using proxy to test cookies: 120.37.121.209:9091
+2024-04-13 06:18:22,619 - __main__ - INFO - Cookies are valid.
+2024-04-13 06:18:24,410 - __main__ - INFO - Page 214 fetched 15 items
+2024-04-13 06:18:33,458 - __main__ - INFO - Using proxy: 118.31.169.137:80
+2024-04-13 06:18:33,468 - __main__ - INFO - Using proxy to test cookies: 222.138.76.6:9002
+2024-04-13 06:18:33,577 - __main__ - INFO - Cookies are valid.
+2024-04-13 06:18:35,303 - __main__ - INFO - Page 215 fetched 15 items
+2024-04-13 06:18:46,227 - __main__ - INFO - Using proxy: 128.140.28.137:8080
+2024-04-13 06:18:46,238 - __main__ - INFO - Using proxy to test cookies: 120.37.121.209:9091
+2024-04-13 06:18:46,350 - __main__ - INFO - Cookies are valid.
+2024-04-13 06:18:48,734 - __main__ - INFO - Page 216 fetched 15 items
+2024-04-13 06:18:58,576 - __main__ - INFO - Using proxy: 117.160.250.136:8899
+2024-04-13 06:18:58,585 - __main__ - INFO - Using proxy to test cookies: 182.61.38.114:82
+2024-04-13 06:18:58,683 - __main__ - INFO - Cookies are valid.
+2024-04-13 06:19:00,833 - __main__ - INFO - Page 217 fetched 15 items
+2024-04-13 06:19:09,922 - __main__ - INFO - Using proxy: 47.106.112.207:8081
+2024-04-13 06:19:09,932 - __main__ - INFO - Using proxy to test cookies: 121.41.58.212:80
+2024-04-13 06:19:10,063 - __main__ - INFO - Cookies are valid.
+2024-04-13 06:19:12,065 - __main__ - INFO - Page 218 fetched 15 items
+2024-04-13 06:19:22,817 - __main__ - INFO - Using proxy: 121.43.35.119:80
+2024-04-13 06:19:22,826 - __main__ - INFO - Using proxy to test cookies: 58.20.248.139:9002
+2024-04-13 06:19:22,915 - __main__ - INFO - Cookies are valid.
+2024-04-13 06:19:25,056 - __main__ - INFO - Page 219 fetched 15 items
+2024-04-13 06:19:32,333 - __main__ - INFO - Using proxy: 114.55.176.250:80
+2024-04-13 06:19:32,344 - __main__ - INFO - Using proxy to test cookies: 41.65.0.203:1976
+2024-04-13 06:19:32,440 - __main__ - INFO - Cookies are valid.
+2024-04-13 06:19:34,391 - __main__ - INFO - Page 220 fetched 15 items
+2024-04-13 06:19:41,510 - __main__ - INFO - Using proxy: 120.26.195.89:80
+2024-04-13 06:19:41,521 - __main__ - INFO - Using proxy to test cookies: 120.37.121.209:9091
+2024-04-13 06:19:41,630 - __main__ - INFO - Cookies are valid.
+2024-04-13 06:19:43,804 - __main__ - INFO - Page 221 fetched 15 items
+2024-04-13 06:19:53,183 - __main__ - INFO - Using proxy: 121.41.54.26:80
+2024-04-13 06:19:53,192 - __main__ - INFO - Using proxy to test cookies: 111.40.11.204:9091
+2024-04-13 06:19:53,274 - __main__ - INFO - Cookies are valid.
+2024-04-13 06:19:55,048 - __main__ - INFO - Page 222 fetched 15 items
+2024-04-13 06:20:05,333 - __main__ - INFO - Using proxy: 118.178.234.137:80
+2024-04-13 06:20:05,342 - __main__ - INFO - Using proxy to test cookies: 121.41.54.26:80
+2024-04-13 06:20:05,464 - __main__ - INFO - Cookies are valid.
+2024-04-13 06:20:07,539 - __main__ - INFO - Page 223 fetched 15 items
+2024-04-13 06:20:13,977 - __main__ - INFO - Using proxy: 121.40.216.235:80
+2024-04-13 06:20:13,986 - __main__ - INFO - Using proxy to test cookies: 120.27.143.33:80
+2024-04-13 06:20:14,109 - __main__ - INFO - Cookies are valid.
+2024-04-13 06:20:16,685 - __main__ - INFO - Page 224 fetched 15 items
+2024-04-13 06:20:25,125 - __main__ - INFO - Using proxy: 121.43.35.119:80
+2024-04-13 06:20:25,134 - __main__ - INFO - Using proxy to test cookies: 117.160.250.136:8899
+2024-04-13 06:20:25,221 - __main__ - INFO - Cookies are valid.
+2024-04-13 06:20:27,778 - __main__ - INFO - Page 225 fetched 15 items
+2024-04-13 06:20:37,043 - __main__ - INFO - Using proxy: 121.43.35.119:80
+2024-04-13 06:20:37,052 - __main__ - INFO - Using proxy to test cookies: 123.126.158.50:80
+2024-04-13 06:20:37,152 - __main__ - INFO - Cookies are valid.
+2024-04-13 06:20:39,228 - __main__ - INFO - Page 226 fetched 15 items
+2024-04-13 06:20:46,445 - __main__ - INFO - Using proxy: 121.40.216.235:80
+2024-04-13 06:20:46,454 - __main__ - INFO - Using proxy to test cookies: 128.140.28.137:8080
+2024-04-13 06:20:46,556 - __main__ - INFO - Cookies are valid.
+2024-04-13 06:20:48,508 - __main__ - INFO - Page 227 fetched 15 items
+2024-04-13 06:20:58,089 - __main__ - INFO - Using proxy: 121.41.58.212:80
+2024-04-13 06:20:58,099 - __main__ - INFO - Using proxy to test cookies: 123.154.20.206:8085
+2024-04-13 06:20:58,205 - __main__ - INFO - Cookies are valid.
+2024-04-13 06:21:00,085 - __main__ - INFO - Page 228 fetched 15 items
+2024-04-13 06:21:06,441 - __main__ - INFO - Using proxy: 27.79.147.195:4005
+2024-04-13 06:21:06,452 - __main__ - INFO - Using proxy to test cookies: 114.55.108.29:80
+2024-04-13 06:21:06,547 - __main__ - INFO - Cookies are valid.
+2024-04-13 06:21:08,920 - __main__ - INFO - Page 229 fetched 15 items
+2024-04-13 06:21:19,960 - __main__ - INFO - Using proxy: 112.124.32.156:80
+2024-04-13 06:21:19,970 - __main__ - INFO - Using proxy to test cookies: 101.37.26.136:80
+2024-04-13 06:21:20,067 - __main__ - INFO - Cookies are valid.
+2024-04-13 06:21:22,250 - __main__ - INFO - Page 230 fetched 15 items
+2024-04-13 06:21:29,870 - __main__ - INFO - Using proxy: 182.61.38.114:82
+2024-04-13 06:21:29,879 - __main__ - INFO - Using proxy to test cookies: 47.93.121.200:80
+2024-04-13 06:21:29,986 - __main__ - INFO - Cookies are valid.
+2024-04-13 06:21:32,079 - __main__ - INFO - Page 231 fetched 15 items
+2024-04-13 06:21:41,039 - __main__ - INFO - Using proxy: 182.61.38.114:82
+2024-04-13 06:21:41,048 - __main__ - INFO - Using proxy to test cookies: 120.26.195.89:80
+2024-04-13 06:21:41,160 - __main__ - INFO - Cookies are valid.
+2024-04-13 06:21:43,661 - __main__ - INFO - Page 232 fetched 15 items
+2024-04-13 06:21:54,728 - __main__ - INFO - Using proxy: 117.160.250.136:8899
+2024-04-13 06:21:54,738 - __main__ - INFO - Using proxy to test cookies: 128.140.28.137:8080
+2024-04-13 06:21:54,846 - __main__ - INFO - Cookies are valid.
+2024-04-13 06:21:56,641 - __main__ - INFO - Page 233 fetched 15 items
+2024-04-13 06:22:05,403 - __main__ - INFO - Using proxy: 118.31.105.240:80
+2024-04-13 06:22:05,413 - __main__ - INFO - Using proxy to test cookies: 118.178.234.137:80
+2024-04-13 06:22:05,535 - __main__ - INFO - Cookies are valid.
+2024-04-13 06:22:07,870 - __main__ - INFO - Page 234 fetched 15 items
+2024-04-13 06:22:18,437 - __main__ - INFO - Using proxy: 116.108.129.181:4001
+2024-04-13 06:22:18,447 - __main__ - INFO - Using proxy to test cookies: 117.160.250.136:8899
+2024-04-13 06:22:18,530 - __main__ - INFO - Cookies are valid.
+2024-04-13 06:22:20,771 - __main__ - INFO - Page 235 fetched 15 items
+2024-04-13 06:22:28,152 - __main__ - INFO - Using proxy: 116.108.129.181:4003
+2024-04-13 06:22:28,163 - __main__ - INFO - Using proxy to test cookies: 118.178.234.137:80
+2024-04-13 06:22:28,298 - __main__ - INFO - Cookies are valid.
+2024-04-13 06:22:30,885 - __main__ - INFO - Page 236 fetched 15 items
+2024-04-13 06:22:37,418 - __main__ - INFO - Using proxy: 183.215.23.242:9091
+2024-04-13 06:22:37,429 - __main__ - INFO - Using proxy to test cookies: 118.31.105.240:80
+2024-04-13 06:22:37,518 - __main__ - INFO - Cookies are valid.
+2024-04-13 06:22:39,905 - __main__ - INFO - Page 237 fetched 15 items
+2024-04-13 06:22:51,116 - __main__ - INFO - Using proxy: 117.160.250.136:8899
+2024-04-13 06:22:51,126 - __main__ - INFO - Using proxy to test cookies: 41.65.103.29:1981
+2024-04-13 06:22:51,234 - __main__ - INFO - Cookies are valid.
+2024-04-13 06:22:53,538 - __main__ - INFO - Page 238 fetched 15 items
+2024-04-13 06:23:00,797 - __main__ - INFO - Using proxy: 188.240.108.91:8080
+2024-04-13 06:23:00,807 - __main__ - INFO - Using proxy to test cookies: 27.79.147.195:4005
+2024-04-13 06:23:00,911 - __main__ - INFO - Cookies are valid.
+2024-04-13 06:23:03,146 - __main__ - INFO - Page 239 fetched 15 items
+2024-04-13 06:23:10,863 - __main__ - INFO - Using proxy: 114.55.176.250:80
+2024-04-13 06:23:10,873 - __main__ - INFO - Using proxy to test cookies: 111.26.177.28:9091
+2024-04-13 06:23:10,960 - __main__ - INFO - Cookies are valid.
+2024-04-13 06:23:13,664 - __main__ - INFO - Page 240 fetched 15 items
+2024-04-13 06:23:25,386 - __main__ - INFO - Using proxy: 120.26.200.176:80
+2024-04-13 06:23:25,396 - __main__ - INFO - Using proxy to test cookies: 183.164.243.56:8089
+2024-04-13 06:23:25,512 - __main__ - INFO - Cookies are valid.
+2024-04-13 06:23:27,247 - __main__ - ERROR - Request failed: 403 Client Error: Forbidden for url: https://www.dianping.com/shop/l9qwmkX3FoD9tExc/review_all/p241, retrying...
+2024-04-13 06:23:27,807 - __main__ - INFO - Page 241 fetched 15 items
+2024-04-13 06:23:35,299 - __main__ - INFO - Using proxy: 183.164.243.56:8089
+2024-04-13 06:23:35,308 - __main__ - INFO - Using proxy to test cookies: 39.105.5.126:80
+2024-04-13 06:23:35,404 - __main__ - INFO - Cookies are valid.
+2024-04-13 06:23:36,986 - __main__ - ERROR - Request failed: 403 Client Error: Forbidden for url: https://www.dianping.com/shop/l9qwmkX3FoD9tExc/review_all/p242, retrying...
+2024-04-13 06:23:37,029 - __main__ - ERROR - Request failed: 403 Client Error: Forbidden for url: https://www.dianping.com/shop/l9qwmkX3FoD9tExc/review_all/p242, retrying...
+2024-04-13 06:23:37,073 - __main__ - ERROR - Request failed: 403 Client Error: Forbidden for url: https://www.dianping.com/shop/l9qwmkX3FoD9tExc/review_all/p242, retrying...
+2024-04-13 06:23:37,082 - __main__ - ERROR - Proxy failure, switching proxy...
+2024-04-13 06:23:37,090 - __main__ - INFO - Using proxy: 120.37.121.209:9091
+2024-04-13 06:23:37,099 - __main__ - INFO - Using proxy to test cookies: 47.93.121.200:80
+2024-04-13 06:23:37,206 - __main__ - INFO - Cookies are valid.
+2024-04-13 06:23:38,945 - __main__ - ERROR - Request failed: 403 Client Error: Forbidden for url: https://www.dianping.com/shop/l9qwmkX3FoD9tExc/review_all/p242, retrying...
+2024-04-13 06:23:38,989 - __main__ - ERROR - Request failed: 403 Client Error: Forbidden for url: https://www.dianping.com/shop/l9qwmkX3FoD9tExc/review_all/p242, retrying...
+2024-04-13 06:23:39,027 - __main__ - ERROR - Request failed: 403 Client Error: Forbidden for url: https://www.dianping.com/shop/l9qwmkX3FoD9tExc/review_all/p242, retrying...
+2024-04-13 06:23:39,037 - __main__ - ERROR - Proxy failure, switching proxy...
+2024-04-13 06:23:39,045 - __main__ - INFO - Using proxy: 183.247.202.230:30001
+2024-04-13 06:23:39,053 - __main__ - INFO - Using proxy to test cookies: 101.37.26.136:80
+2024-04-13 06:23:39,155 - __main__ - INFO - Cookies are valid.
+2024-04-13 06:23:40,960 - __main__ - INFO - Page 242 fetched 15 items
+2024-04-13 06:23:48,198 - __main__ - INFO - Using proxy: 101.37.26.136:80
+2024-04-13 06:23:48,207 - __main__ - INFO - Using proxy to test cookies: 183.247.202.230:30001
+2024-04-13 06:23:48,309 - __main__ - INFO - Cookies are valid.
+2024-04-13 06:23:50,209 - __main__ - ERROR - Request failed: 403 Client Error: Forbidden for url: https://www.dianping.com/shop/l9qwmkX3FoD9tExc/review_all/p243, retrying...
+2024-04-13 06:23:50,254 - __main__ - ERROR - Request failed: 403 Client Error: Forbidden for url: https://www.dianping.com/shop/l9qwmkX3FoD9tExc/review_all/p243, retrying...
+2024-04-13 06:23:50,294 - __main__ - ERROR - Request failed: 403 Client Error: Forbidden for url: https://www.dianping.com/shop/l9qwmkX3FoD9tExc/review_all/p243, retrying...
+2024-04-13 06:23:50,303 - __main__ - ERROR - Proxy failure, switching proxy...
+2024-04-13 06:23:50,311 - __main__ - INFO - Using proxy: 218.23.15.154:9002
+2024-04-13 06:23:50,322 - __main__ - INFO - Using proxy to test cookies: 121.41.54.26:80
+2024-04-13 06:23:50,425 - __main__ - INFO - Cookies are valid.
+2024-04-13 06:23:52,749 - __main__ - INFO - Page 243 fetched 15 items
+2024-04-13 06:23:59,717 - __main__ - INFO - Using proxy: 116.125.141.115:80
+2024-04-13 06:23:59,726 - __main__ - INFO - Using proxy to test cookies: 111.59.4.88:9002
+2024-04-13 06:23:59,820 - __main__ - INFO - Cookies are valid.
+2024-04-13 06:24:01,548 - __main__ - INFO - Page 244 fetched 15 items
+2024-04-13 06:24:08,625 - __main__ - INFO - Using proxy: 121.41.54.26:80
+2024-04-13 06:24:08,635 - __main__ - INFO - Using proxy to test cookies: 188.240.108.91:8080
+2024-04-13 06:24:08,719 - __main__ - INFO - Cookies are valid.
+2024-04-13 06:24:10,407 - __main__ - ERROR - Request failed: 403 Client Error: Forbidden for url: https://www.dianping.com/shop/l9qwmkX3FoD9tExc/review_all/p245, retrying...
+2024-04-13 06:24:11,006 - __main__ - INFO - Page 245 fetched 15 items
+2024-04-13 06:24:22,215 - __main__ - INFO - Using proxy: 121.41.58.212:80
+2024-04-13 06:24:22,227 - __main__ - INFO - Using proxy to test cookies: 134.35.155.222:8080
+2024-04-13 06:24:22,342 - __main__ - INFO - Cookies are valid.
+2024-04-13 06:24:23,418 - __main__ - ERROR - Request failed: 403 Client Error: Forbidden for url: https://www.dianping.com/shop/l9qwmkX3FoD9tExc/review_all/p246, retrying...
+2024-04-13 06:24:23,457 - __main__ - ERROR - Request failed: 403 Client Error: Forbidden for url: https://www.dianping.com/shop/l9qwmkX3FoD9tExc/review_all/p246, retrying...
+2024-04-13 06:24:23,495 - __main__ - ERROR - Request failed: 403 Client Error: Forbidden for url: https://www.dianping.com/shop/l9qwmkX3FoD9tExc/review_all/p246, retrying...
+2024-04-13 06:24:23,504 - __main__ - ERROR - Proxy failure, switching proxy...
+2024-04-13 06:24:23,513 - __main__ - INFO - Using proxy: 118.178.234.137:80
+2024-04-13 06:24:23,522 - __main__ - INFO - Using proxy to test cookies: 117.160.250.136:8899
+2024-04-13 06:24:23,625 - __main__ - INFO - Cookies are valid.
+2024-04-13 06:24:25,099 - __main__ - ERROR - Request failed: 403 Client Error: Forbidden for url: https://www.dianping.com/shop/l9qwmkX3FoD9tExc/review_all/p246, retrying...
+2024-04-13 06:24:25,142 - __main__ - ERROR - Request failed: 403 Client Error: Forbidden for url: https://www.dianping.com/shop/l9qwmkX3FoD9tExc/review_all/p246, retrying...
+2024-04-13 06:24:25,185 - __main__ - ERROR - Request failed: 403 Client Error: Forbidden for url: https://www.dianping.com/shop/l9qwmkX3FoD9tExc/review_all/p246, retrying...
+2024-04-13 06:24:25,193 - __main__ - ERROR - Proxy failure, switching proxy...
+2024-04-13 06:24:25,205 - __main__ - INFO - Using proxy: 120.26.13.191:80
+2024-04-13 06:24:25,213 - __main__ - INFO - Using proxy to test cookies: 222.138.76.6:9002
+2024-04-13 06:24:25,314 - __main__ - INFO - Cookies are valid.
+2024-04-13 06:24:27,115 - __main__ - ERROR - Request failed: 403 Client Error: Forbidden for url: https://www.dianping.com/shop/l9qwmkX3FoD9tExc/review_all/p246, retrying...
+2024-04-13 06:24:27,159 - __main__ - ERROR - Request failed: 403 Client Error: Forbidden for url: https://www.dianping.com/shop/l9qwmkX3FoD9tExc/review_all/p246, retrying...
+2024-04-13 06:24:27,203 - __main__ - ERROR - Request failed: 403 Client Error: Forbidden for url: https://www.dianping.com/shop/l9qwmkX3FoD9tExc/review_all/p246, retrying...
+2024-04-13 06:24:27,213 - __main__ - ERROR - Proxy failure, switching proxy...
+2024-04-13 06:24:27,213 - __main__ - ERROR - Failed to fetch page, skipping...
+2024-04-13 06:37:03,531 - __main__ - INFO - Using proxy: 120.27.143.33:80
+2024-04-13 06:37:03,540 - __main__ - INFO - Using proxy to test cookies: 120.26.200.176:80
+2024-04-13 06:37:03,652 - __main__ - INFO - Cookies are valid.
+2024-04-13 06:37:04,782 - __main__ - ERROR - Request failed: 403 Client Error: Forbidden for url: https://www.dianping.com/shop/l9qwmkX3FoD9tExc/review_all/p247, retrying...
+2024-04-13 06:37:04,823 - __main__ - ERROR - Request failed: 403 Client Error: Forbidden for url: https://www.dianping.com/shop/l9qwmkX3FoD9tExc/review_all/p247, retrying...
+2024-04-13 06:37:04,866 - __main__ - ERROR - Request failed: 403 Client Error: Forbidden for url: https://www.dianping.com/shop/l9qwmkX3FoD9tExc/review_all/p247, retrying...
+2024-04-13 06:37:04,876 - __main__ - ERROR - Proxy failure, switching proxy...
+2024-04-13 06:37:04,884 - __main__ - INFO - Using proxy: 114.231.8.164:8089
+2024-04-13 06:37:04,893 - __main__ - INFO - Using proxy to test cookies: 114.55.176.250:80
+2024-04-13 06:37:04,983 - __main__ - INFO - Cookies are valid.
+2024-04-13 06:37:06,103 - __main__ - ERROR - Request failed: 403 Client Error: Forbidden for url: https://www.dianping.com/shop/l9qwmkX3FoD9tExc/review_all/p247, retrying...
+2024-04-13 06:37:06,150 - __main__ - ERROR - Request failed: 403 Client Error: Forbidden for url: https://www.dianping.com/shop/l9qwmkX3FoD9tExc/review_all/p247, retrying...
+2024-04-13 06:37:06,189 - __main__ - ERROR - Request failed: 403 Client Error: Forbidden for url: https://www.dianping.com/shop/l9qwmkX3FoD9tExc/review_all/p247, retrying...
+2024-04-13 06:37:06,197 - __main__ - ERROR - Proxy failure, switching proxy...
+2024-04-13 06:37:06,206 - __main__ - INFO - Using proxy: 116.108.129.181:4001
+2024-04-13 06:37:06,216 - __main__ - INFO - Using proxy to test cookies: 116.62.159.106:80
+2024-04-13 06:37:06,322 - __main__ - INFO - Cookies are valid.
+2024-04-13 06:37:08,152 - __main__ - INFO - Page 247 fetched 15 items
+2024-04-13 06:37:18,792 - __main__ - INFO - Using proxy: 118.31.169.137:80
+2024-04-13 06:37:18,802 - __main__ - INFO - Using proxy to test cookies: 47.96.252.117:80
+2024-04-13 06:37:18,896 - __main__ - INFO - Cookies are valid.
+2024-04-13 06:37:20,979 - __main__ - INFO - Page 248 fetched 15 items
+2024-04-13 06:37:31,995 - __main__ - INFO - Using proxy: 183.215.23.242:9091
+2024-04-13 06:37:32,005 - __main__ - INFO - Using proxy to test cookies: 117.160.250.136:8899
+2024-04-13 06:37:32,099 - __main__ - INFO - Cookies are valid.
+2024-04-13 06:37:34,059 - __main__ - ERROR - Request failed: 403 Client Error: Forbidden for url: https://www.dianping.com/shop/l9qwmkX3FoD9tExc/review_all/p249, retrying...
+2024-04-13 06:37:34,101 - __main__ - ERROR - Request failed: 403 Client Error: Forbidden for url: https://www.dianping.com/shop/l9qwmkX3FoD9tExc/review_all/p249, retrying...
+2024-04-13 06:37:34,142 - __main__ - ERROR - Request failed: 403 Client Error: Forbidden for url: https://www.dianping.com/shop/l9qwmkX3FoD9tExc/review_all/p249, retrying...
+2024-04-13 06:37:34,153 - __main__ - ERROR - Proxy failure, switching proxy...
+2024-04-13 06:37:34,162 - __main__ - INFO - Using proxy: 120.26.200.176:80
+2024-04-13 06:37:34,171 - __main__ - INFO - Using proxy to test cookies: 120.26.200.176:80
+2024-04-13 06:37:34,272 - __main__ - INFO - Cookies are valid.
+2024-04-13 06:37:35,462 - __main__ - ERROR - Request failed: 403 Client Error: Forbidden for url: https://www.dianping.com/shop/l9qwmkX3FoD9tExc/review_all/p249, retrying...
+2024-04-13 06:37:35,507 - __main__ - ERROR - Request failed: 403 Client Error: Forbidden for url: https://www.dianping.com/shop/l9qwmkX3FoD9tExc/review_all/p249, retrying...
+2024-04-13 06:37:35,550 - __main__ - ERROR - Request failed: 403 Client Error: Forbidden for url: https://www.dianping.com/shop/l9qwmkX3FoD9tExc/review_all/p249, retrying...
+2024-04-13 06:37:35,559 - __main__ - ERROR - Proxy failure, switching proxy...
+2024-04-13 06:37:35,568 - __main__ - INFO - Using proxy: 114.55.108.29:80
+2024-04-13 06:37:35,576 - __main__ - INFO - Using proxy to test cookies: 117.160.250.136:8899
+2024-04-13 06:37:35,668 - __main__ - INFO - Cookies are valid.
+2024-04-13 06:37:37,349 - __main__ - ERROR - Request failed: 403 Client Error: Forbidden for url: https://www.dianping.com/shop/l9qwmkX3FoD9tExc/review_all/p249, retrying...
+2024-04-13 06:37:37,391 - __main__ - ERROR - Request failed: 403 Client Error: Forbidden for url: https://www.dianping.com/shop/l9qwmkX3FoD9tExc/review_all/p249, retrying...
+2024-04-13 06:37:37,429 - __main__ - ERROR - Request failed: 403 Client Error: Forbidden for url: https://www.dianping.com/shop/l9qwmkX3FoD9tExc/review_all/p249, retrying...
+2024-04-13 06:37:37,438 - __main__ - ERROR - Proxy failure, switching proxy...
+2024-04-13 06:37:37,439 - __main__ - ERROR - Failed to fetch page, skipping...
+2024-04-13 06:52:17,744 - __main__ - INFO - Using proxy: 121.43.35.119:80
+2024-04-13 06:52:17,753 - __main__ - INFO - Using proxy to test cookies: 121.40.216.235:80
+2024-04-13 06:52:17,856 - __main__ - INFO - Cookies are valid.
+2024-04-13 06:52:19,912 - __main__ - INFO - Page 250 fetched 15 items
+2024-04-13 06:52:26,577 - __main__ - INFO - Using proxy: 120.26.195.89:80
+2024-04-13 06:52:26,587 - __main__ - INFO - Using proxy to test cookies: 123.154.20.206:8085
+2024-04-13 06:52:26,672 - __main__ - INFO - Cookies are valid.
+2024-04-13 06:52:28,567 - __main__ - INFO - Page 251 fetched 15 items
+2024-04-13 06:52:36,778 - __main__ - INFO - Using proxy: 101.37.18.160:80
+2024-04-13 06:52:36,787 - __main__ - INFO - Using proxy to test cookies: 118.31.105.240:80
+2024-04-13 06:52:36,892 - __main__ - INFO - Cookies are valid.
+2024-04-13 06:52:38,686 - __main__ - ERROR - Request failed: 403 Client Error: Forbidden for url: https://www.dianping.com/shop/l9qwmkX3FoD9tExc/review_all/p252, retrying...
+2024-04-13 06:52:38,727 - __main__ - ERROR - Request failed: 403 Client Error: Forbidden for url: https://www.dianping.com/shop/l9qwmkX3FoD9tExc/review_all/p252, retrying...
+2024-04-13 06:52:38,769 - __main__ - ERROR - Request failed: 403 Client Error: Forbidden for url: https://www.dianping.com/shop/l9qwmkX3FoD9tExc/review_all/p252, retrying...
+2024-04-13 06:52:38,777 - __main__ - ERROR - Proxy failure, switching proxy...
+2024-04-13 06:52:38,787 - __main__ - INFO - Using proxy: 121.40.216.235:80
+2024-04-13 06:52:38,795 - __main__ - INFO - Using proxy to test cookies: 121.43.35.119:80
+2024-04-13 06:52:38,888 - __main__ - INFO - Cookies are valid.
+2024-04-13 06:52:40,060 - __main__ - ERROR - Request failed: 403 Client Error: Forbidden for url: https://www.dianping.com/shop/l9qwmkX3FoD9tExc/review_all/p252, retrying...
+2024-04-13 06:52:40,102 - __main__ - ERROR - Request failed: 403 Client Error: Forbidden for url: https://www.dianping.com/shop/l9qwmkX3FoD9tExc/review_all/p252, retrying...
+2024-04-13 06:52:40,141 - __main__ - ERROR - Request failed: 403 Client Error: Forbidden for url: https://www.dianping.com/shop/l9qwmkX3FoD9tExc/review_all/p252, retrying...
+2024-04-13 06:52:40,150 - __main__ - ERROR - Proxy failure, switching proxy...
+2024-04-13 06:52:40,159 - __main__ - INFO - Using proxy: 41.65.103.29:1981
+2024-04-13 06:52:40,167 - __main__ - INFO - Using proxy to test cookies: 41.65.0.203:1976
+2024-04-13 06:52:40,267 - __main__ - INFO - Cookies are valid.
+2024-04-13 06:52:41,943 - __main__ - ERROR - Request failed: 403 Client Error: Forbidden for url: https://www.dianping.com/shop/l9qwmkX3FoD9tExc/review_all/p252, retrying...
+2024-04-13 06:52:41,983 - __main__ - ERROR - Request failed: 403 Client Error: Forbidden for url: https://www.dianping.com/shop/l9qwmkX3FoD9tExc/review_all/p252, retrying...
+2024-04-13 06:52:42,023 - __main__ - ERROR - Request failed: 403 Client Error: Forbidden for url: https://www.dianping.com/shop/l9qwmkX3FoD9tExc/review_all/p252, retrying...
+2024-04-13 06:52:42,033 - __main__ - ERROR - Proxy failure, switching proxy...
+2024-04-13 06:52:42,033 - __main__ - ERROR - Failed to fetch page, skipping...
